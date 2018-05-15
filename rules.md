@@ -7,7 +7,7 @@
 6. You must be the race you ally with (see rule 4). Alliance changes are expensive, but are offered in-store at spawn.
 7. This is a mature server!
 8. No PvP logging! Don't be a coward.
-9. Botania sparks, floating flowers, and mana pools are each an entity, and some people's bases have over 100. You may NOT force chunkload the chunk with all the sparks in it. Please respect that I cannot afford to continue to upgrade the ram for this purpose.(edited)
+9. Botania sparks, floating flowers, and mana pools are each an entity, and some people's bases have over 100. You may NOT force chunkload the chunk with all the sparks in it. Please respect that I cannot afford to continue to upgrade the ram for this purpose.
 
 :police_car: Outlawed (disabled) items: :police_car: 
 - Hungry Bag (dupe bug)
@@ -17,9 +17,9 @@
 - Resolute Ivy (deletes items)
 - Brew of Erosion (used for griefing)
 - Tome of Knowledge Sharing (humans only)
-- Shard of Laputa (used for griefing)(edited)
+- Shard of Laputa (used for griefing)
 
 :headphones: Discord rules: :headphones: 
 1. Your nick must have some indication of who you are in-game
 2. If you don't have your correct role, put your name and chosen role in #i-need-a-role 
-3. Other discord server links are OK as long as theyre not for other minecraft servers(edited)
+3. Other discord server links are OK as long as theyre not for other minecraft servers
