@@ -44,7 +44,7 @@ simply magic - Performance Issues/Underdeveloped
 # Other types of Suggestions
 ANY OTHER WAY OF FINDING RTP - Modded world generation messes up RTP. Deal with it.  
 Buying bat eggs - just work for em yall are lazy  
-Warp books - Unbalanced, there are plenty of ways to warp places  
+Warp books - Unbalanced, there are plenty of ways to get places  
 Turning on keepinventory - Unbalanced, PVP should have some reward for victory  
 removing the blood poppies in spawn - Unbalanced, we want them there  
 adding dragon eggs to shop - Unbalanced, not meant to be free  
