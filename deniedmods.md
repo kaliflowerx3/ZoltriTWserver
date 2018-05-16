@@ -12,6 +12,7 @@ That depends. If you can answer ALL the below questions with a BIG YES, then sur
 For other suggestions: answer whichever questions are applicable (i.e., everything except 1)
 
 # List of already denied mods
+(Unbalanced means server admins have decided this.  Disagree all you want but don't argue, it won't help)
 
 Ars Magica - Unbalanced  
 Mr. Crayfish - Unbalanced  
@@ -43,9 +44,10 @@ simply magic - Performance Issues/Underdeveloped
 # Other types of Suggestions
 ANY OTHER WAY OF FINDING RTP - Modded world generation messes up RTP. Deal with it.  
 Buying bat eggs - just work for em yall are lazy  
-Warp books - Unbalanced  
-Turning on keepinventory - Unbalanced  
-removing the blood poppies in spawn - Unbalanced  
-adding dragon eggs to shop - Unbalanced  
-other music bots - Performance Issues  
-being able to sell more items - sell it in market  
+Warp books - Unbalanced, there are plenty of ways to warp places  
+Turning on keepinventory - Unbalanced, PVP should have some reward for victory  
+removing the blood poppies in spawn - Unbalanced, we want them there  
+adding dragon eggs to shop - Unbalanced, not meant to be free  
+other music bots - Performance Issues (and we're not listening... LA LA LA)  
+being able to sell more items - Sell it in market  
+more items should be sold in Spawn - No, you're meant to find some things, not buy everything that comes to mind
