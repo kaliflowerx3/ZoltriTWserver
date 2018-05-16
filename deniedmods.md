@@ -40,6 +40,7 @@ chromitcraft - Performance Issues
 the last blockbender - Not Thematically Appropriate  
 block armor - Not Thematically Appropriate  
 simply magic - Performance Issues/Underdeveloped  
+Necromancy - Not Thematically Appropriate/Kinda a joke mod  
 
 # Other types of Suggestions
 ANY OTHER WAY OF FINDING RTP - Modded world generation messes up RTP. Deal with it.  
