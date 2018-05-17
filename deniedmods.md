@@ -24,7 +24,6 @@ Equivalent Exchange 3/ee3/any other equivalent exchange- Not Thematically Approp
 Chisel and Bits - Performance Issues  
 Carpenters Blocks - Performance Issues  
 Project E - Not Thematically Appropriate  
-Thaumic Guns - Meaningless  
 Iron chests - Meaningless   
 Extra Util - Not Thematically Appropriate  
 Backpack mod - Meaningless  
@@ -43,6 +42,7 @@ simply magic - Performance Issues/Underdeveloped
 Necromancy - Meaningless/Not Thematically Appropriate/Kinda a joke mod  
 CopiousDogs - Broken/Performance Issues
 JeweleryCraft - Meaningless  
+Thaumic Bases - Unbalanced
 
 # Other types of Suggestions
 ANY OTHER WAY OF FINDING RTP - Modded world generation messes up RTP. Deal with it.  
