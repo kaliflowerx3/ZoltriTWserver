@@ -10,5 +10,15 @@ rank3 | 10d | total 3 sethomes!
 rank4 | 30d | access to /back
 rank5 | 50d | unlimited claims
 
+name | meaning
+--- | ---
+The Unremembered | loser
+The Evagatious | wandering of the mind
+The Phantasmagoric | having a fantastic or deceptive appearance
+The World Eater | penis
+The Pulchritudinous | beautiful
+The Eviternal | eternal
+
+
 
 dont want to play that long? [donate](http://zoltritw.buycraft.net/) :) :) :) 
