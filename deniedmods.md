@@ -11,6 +11,10 @@ That depends. If you can answer ALL the below questions with a BIG YES, then sur
 
 For other suggestions: answer whichever questions are applicable (i.e., everything except 1)
 
+# List of potential future mods
+Erebus - Biome IDs conflict, and cannot exceed 127 (BOP uses up to 122, and Erebus uses 8), need additional libraries
+Clay Soldiers - Fun mod, but doesn't add anything crazy, unsure of performance on server, needs further testing
+
 # List of already denied mods
 (Unbalanced means server admins have decided this.  Disagree all you want but don't argue, it won't help)
 
