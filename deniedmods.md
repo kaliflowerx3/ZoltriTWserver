@@ -12,8 +12,9 @@ That depends. If you can answer ALL the below questions with a BIG YES, then sur
 For other suggestions: answer whichever questions are applicable (i.e., everything except 1)
 
 # List of potential future mods
-Erebus - Biome IDs conflict, and cannot exceed 127 (BOP uses up to 122, and Erebus uses 8), need additional libraries
-Clay Soldiers - Fun mod, but doesn't add anything crazy, unsure of performance on server, needs further testing
+Erebus - Biome IDs conflict, and cannot exceed 127 (BOP uses up to 122, and Erebus uses 8), need additional libraries  
+Clay Soldiers - Fun mod, but doesn't add anything crazy, unsure of performance on server, needs further testing  
+Aether 2 - potential performance issues, but maybe sometime in the future?
 
 # List of already denied mods
 (Unbalanced means server admins have decided this.  Disagree all you want but don't argue, it won't help)
@@ -47,9 +48,8 @@ Necromancy - Meaningless/Not Thematically Appropriate/Kinda a joke mod
 CopiousDogs - Broken/Performance Issues
 JeweleryCraft - Meaningless  
 Thaumic Bases - Unbalanced
-Aether 2 - Performance Issues
-Druidry - Meaningless/Unfinished at 1.7.10
-Open Blocks - Not Thematically Appropriate
+Druidry - Meaningless/Unfinished at 1.7.10  
+Open Blocks - Not Thematically Appropriate  
 
 # Other types of Suggestions
 ANY OTHER WAY TO RTP - Modded world generation messes up RTP. Deal with it.  
