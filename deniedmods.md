@@ -43,9 +43,12 @@ Necromancy - Meaningless/Not Thematically Appropriate/Kinda a joke mod
 CopiousDogs - Broken/Performance Issues
 JeweleryCraft - Meaningless  
 Thaumic Bases - Unbalanced
+Aether 2 - Performance Issues
+Druidry - Meaningless/Unfinished at 1.7.10
+Open Blocks - Not Thematically Appropriate
 
 # Other types of Suggestions
-ANY OTHER WAY OF FINDING RTP - Modded world generation messes up RTP. Deal with it.  
+ANY OTHER WAY TO RTP - Modded world generation messes up RTP. Deal with it.  
 Buying bat eggs - just work for em yall are lazy  
 Warp books - Unbalanced, there are plenty of ways to get places  
 Turning on keepinventory - Unbalanced, PVP should have some reward for victory  
