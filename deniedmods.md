@@ -15,6 +15,7 @@ For other suggestions: answer whichever questions are applicable (i.e., everythi
 Erebus - Biome IDs conflict, and cannot exceed 127 (BOP uses up to 122, and Erebus uses 8), need additional libraries  
 Clay Soldiers - Fun mod, but doesn't add anything crazy, unsure of performance on server, needs further testing  
 Aether 2 - potential performance issues, but maybe sometime in the future?
+EE3 - ??? soon
 
 # List of already denied mods
 (Unbalanced means server admins have decided this.  Disagree all you want but don't argue, it won't help)
@@ -24,8 +25,7 @@ Mr. Crayfish - Unbalanced
 Tinker's construct - Not Thematically Appropriate  
 Astral Sorcery - No 1.7.10 version  
 Magical Crops - Unbalanced  
-Sanguimancy- Broken  
-Equivalent Exchange 3/ee3/any other equivalent exchange- Not Thematically Appropriate  
+Sanguimancy- Broken   
 Chisel and Bits - Performance Issues  
 Carpenters Blocks - Performance Issues  
 Project E - Not Thematically Appropriate  
