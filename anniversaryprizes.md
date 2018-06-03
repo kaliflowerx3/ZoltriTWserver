@@ -1,18 +1,20 @@
 heyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy woohoo 1 whole year
 
-prizes and prices are subject to change
+## prizes and prices are subject to change
+
+### ONLY 1 1k LEVEL PRIZE PER PERSON
 
 prize	| price
 |---|---|
-your pick	| whoever has the most tokens at the end of the event
+your pick/or my pick??	| whoever has the most tokens at the end of the event
 dragon egg | 400
 prim pearl |	300
 nether star |	100
 bright hungry node | 500
 jarred coven witch | 100
-infinity egg |	800
+infinity egg |	1000
 ichor research |	400
-guilty pool (inf mana) |	800
+guilty pool (inf mana) |	1000
 gog and mulg set |	???
 1 random spawner (not boss) |	???
 pentacle |	150
@@ -24,5 +26,5 @@ pentacle |	150
 55 essentia reservoirs |	400
 32 diamonds |	50
 z100k |	100
-cleared warp |	800
+cleared warp |	1000
 more??? |	???
