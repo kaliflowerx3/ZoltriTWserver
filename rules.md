@@ -2,7 +2,7 @@
 1. Be respectful to everyone, not just mods/owners. Trash talk is okay but know where the line is. This also applies to Discord.
 2. No griefing! In addition, do not abuse your claim powers! They can and will be taken away, leaving your stuff unprotected!
 3. No use of third-party software.
-4. Take roleplay seriously!
+4.  Just because you can, doesn't mean you should. If something is clearly not meant to happen, report it! Don't exploit it. This will operate on a Warning-Tempban-Permaban basis (not necessarily for the same bug).
 5. We will not tolerate discrimination of any kind. No leeway. This includes slurs.
 6. You must be the race you ally with (see rule 4). Alliance changes are expensive, but are offered in-store at spawn.
 7. This is a mature server!
