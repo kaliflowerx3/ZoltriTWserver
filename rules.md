@@ -7,7 +7,7 @@
 6. You must be the race you ally with (see rule 4). Alliance changes are expensive, but are offered in-store at spawn.
 7. This is a mature server!
 8. No PvP logging! Don't be a coward.
-9. Botania sparks, floating flowers, and mana pools are each an entity, and some people's bases have over 100. You may NOT force chunkload the chunk with all the sparks in it. Please respect that I cannot afford to continue to upgrade the ram for this purpose.
+9. You MAY NOT force chunkload a chunk with >10 Botania sparks in it.
 
 :police_car: Outlawed (disabled) items: :police_car: 
 - Hungry Bag (dupe bug)
