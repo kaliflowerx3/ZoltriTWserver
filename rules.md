@@ -18,6 +18,7 @@
 - Brew of Erosion (used for griefing)
 - Tome of Knowledge Sharing (humans only)
 - Shard of Laputa (used for griefing)
+- Time focus (too many time wars)
 
 :headphones: Discord rules: :headphones: 
 1. Your nick must have some indication of who you are in-game
