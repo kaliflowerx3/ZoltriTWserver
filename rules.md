@@ -19,6 +19,7 @@
 - Tome of Knowledge Sharing (humans only)
 - Shard of Laputa (used for griefing)
 - Time focus (too many time wars)
+- Loonium (guilty pools + loonium = op)
 
 :headphones: Discord rules: :headphones: 
 1. Your nick must have some indication of who you are in-game
