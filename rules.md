@@ -5,7 +5,7 @@
 4.  Just because you can, doesn't mean you should. If something is clearly not meant to happen, report it! Don't exploit it. This will operate on a Warning-Tempban-Permaban basis (not necessarily for the same bug).
 5. We will not tolerate discrimination of any kind. No leeway. This includes slurs.
 6. You must be the race you ally with (see rule 4). Alliance changes are expensive, but are offered in-store at spawn.
-7. This is a mature server!
+7. This is a mature server! Underage players will be banned.
 8. No PvP logging! Don't be a coward.
 9. You MAY NOT force chunkload a chunk with >10 Botania sparks in it.
 
