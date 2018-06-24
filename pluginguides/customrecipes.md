@@ -2,9 +2,10 @@ heyyyyyy bbbbbitch
 
 # DON'T USE AN ARCANE WORKBENCH!!!  
 only use a vanilla workbench
+shift crafting multiple is a lil buggy, but still works. just dont panic.
 
-![](https://cdn.discordapp.com/attachments/316427001701466112/455365799629029386/unknown.png)  
-stone + shard of creation = ancient stone (keep shard of creation)  
+![](https://cdn.discordapp.com/attachments/316417390214774785/460420601002196992/unknown.png)  
+stone + ageing stone = ancient stone  
 ![](https://cdn.discordapp.com/attachments/406506008173871115/416862700187156490/unknown.png)  
 string + thaumium ingot + cloak + cloth of spacious folds = cloak of vol pockets  
 ![](https://cdn.discordapp.com/attachments/406506008173871115/416862734756347914/unknown.png)  
