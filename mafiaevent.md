@@ -28,5 +28,6 @@ like if we only run 6 games then tokens' value changes
 - /mafia vote <player>: vote for player to kill
 - /mafia register: register for a game
 - /mafia listplayers: lists players and indicates if dead
+- /mafia help: u know
 
 ### subject to change, check discord for updates
