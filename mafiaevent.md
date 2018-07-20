@@ -1,5 +1,6 @@
 temporary file
 
+# rules
 the game starts. players must register with /mafia register
 a murderer is randomly chosen from the registered player once registration is closed. a doctor and a detective are handpicked by the GM (dependent on how many players). the rest of the players are villagers.
 
@@ -9,7 +10,7 @@ when it becomes day, it is revealed who died the night before. the players then 
 
 The goal of the murderer is to kill everyone, and the goal of the villagers is to kill the murderer
 
-prizes:
+## prizes:
 - each game you participate in grants you 1 token (remember tokens?)
 - if youre the murderer and you win, you get 5 tokens
 - at the end of the weekend, you can exchange your tokens into different tier prizes
@@ -23,4 +24,9 @@ you spend your tokens on each tier and are given a random item out of it
 the token to tier ratio might change depending on how many games we run
 like if we only run 6 games then tokens' value changes
 
-subject to change, check discord for updates
+## commands
+- /mafia vote <player>: vote for player to kill
+- /mafia register: register for a game
+- /mafia listplayers: lists players and indicates if dead
+
+### subject to change, check discord for updates
