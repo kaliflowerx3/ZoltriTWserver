@@ -2,10 +2,18 @@ temporary file
 
 # rules
 the game starts. players must register with /mafia register
-a murderer is randomly chosen from the registered player once registration is closed. a doctor and a detective are handpicked by the GM (dependent on how many players). the rest of the players are villagers.
+all the roles are randomly chosen. the rest of the players are villagers.
 
-night falls. the murderer must choose a victim. they /msg the GM who they would like to kill. the doctor also messages the DM, but they message who they would like to save. If the doctor and the murderer pick the same person, that person is saved from being murdered. the detective gets to pick someone at random and learn their role.
+murderer - your goal is to kill all the villagers without them figuring out who you are    
+doctor - every night you pick a person to "heal." if its the same person the murderer tries to kill, you save them from dying.  
+detective - every night you pick a person to investigate. you /msg the GM a person and you learn their role  
+jester - you want to get killed. you must act as suspiciously as possible so people think you are the murderer.  
+escort - gets to distract one player per night from their action. if you try to distract the murderer, you die instead.  
+arsonist - marks 1 player per night with gasoline. you can kill yourself to take your victims with you,  but if you are hung or murderered your victims survive.  
+vigilante - gets to kill 1 person per night, if they are innocent you kill yourself.  
 
+night falls. players with roles act with /mafia act <player>. the jester does not have an action at night.
+  
 when it becomes day, it is revealed who died the night before. the players then discuss who they will kill in the hopes of killing the murderer. present your theories here. once the vote is open, you vote for who you think is the murderer with /mafia vote <player>. the vote closes, and the person who got the most votes is killed by the town, and their role revealed. if it is the murderer, the villagers win! if not, another night passes and the cycle begins anew. 
 
 The goal of the murderer is to kill everyone, and the goal of the villagers is to kill the murderer
