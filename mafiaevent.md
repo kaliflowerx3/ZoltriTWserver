@@ -6,7 +6,7 @@ all the roles are randomly chosen. the rest of the players are villagers.
 
 murderer - your goal is to kill all the villagers without them figuring out who you are    
 doctor - every night you pick a person to "heal." if its the same person the murderer tries to kill, you save them from dying.  
-detective - every night you pick a person to investigate. you /msg the GM a person and you learn their role  
+detective - every night you pick a person to investigate to learn their role. 
 jester - you want to get killed. you must act as suspiciously as possible so people think you are the murderer.  
 escort - gets to distract one player per night from their action. if you try to distract the murderer, you die instead.  
 arsonist - marks 1 player per night with gasoline. you can kill yourself to take your victims with you,  but if you are hung or murderered your victims survive.  
