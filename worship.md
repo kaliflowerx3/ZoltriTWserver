@@ -5,6 +5,7 @@ happier god = better perks
 ranks within your religion: member, priest, prophet, etc.  
 holy book: written and distributed by prophet  
 everyone starts off as no religion (new players i mean), must be "converted" by a member of the religion. similiarly, changing religions requires you to have someone from your target religion take you to the altar.
+must bring forth god's chosen artifact to sacrifice to become that religion
 
 ## pleasing your god:
 ### non-vamps:  
