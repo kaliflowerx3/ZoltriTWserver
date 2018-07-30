@@ -1,9 +1,10 @@
 # features:
 make god from block structure in game  
-pray (rightclick? shift?) at the altar to make god happy and rank up  
+worship (rightclick? shift?) at the altar to make god happy and rank up  
 happier god = better perks  
 ranks within your religion: member, priest, prophet, etc.  
 holy book: written and distributed by prophet  
+everyone starts off as no religion (new players i mean), must be "converted" by a member of the religion. similiarly, changing religions requires you to have someone from your target religion take you to the altar.
 
 ## pleasing your god:
 ### non-vamps:  
