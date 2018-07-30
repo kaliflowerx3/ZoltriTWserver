@@ -50,6 +50,7 @@ JeweleryCraft - Meaningless
 Thaumic Bases - Unbalanced
 Druidry - Meaningless/Unfinished at 1.7.10  
 Open Blocks - Not Thematically Appropriate  
+Archimedes Ships - Performance Issues  
 
 # Other types of Suggestions
 ANY OTHER WAY TO RTP - Modded world generation messes up RTP. Deal with it.  
