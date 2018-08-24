@@ -41,7 +41,7 @@ twilight forest - Performance Issues
 other flight mods - Meaningless  
 wizardry - Performance Issues  
 Simple robots - Not Thematically Appropriate  
-chromitcraft - Performance Issues  
+chromitcraft - Performance Issues (idk what this is meant to be)  
 the last blockbender - Not Thematically Appropriate  
 block armor - Not Thematically Appropriate  
 simply magic - Performance Issues/Underdeveloped  
@@ -55,7 +55,8 @@ Archimedes Ships - Performance Issues
 Blood Magic - Had it, cycled it out  
 Evilcraft - Had it, cycled it out  
 Dimensional Doors - Performance issues/redundant to Mirror Dim  
-Any Gun mod - cmon
+Any Gun mod - cmon  
+Botanical Addons - Meaningless :(  
 
 # Other types of Suggestions
 ANY OTHER WAY TO RTP - Modded world generation messes up RTP. Deal with it.  
