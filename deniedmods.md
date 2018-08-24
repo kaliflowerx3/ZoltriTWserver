@@ -17,6 +17,7 @@ Clay Soldiers - Fun mod, but doesn't add anything crazy, unsure of performance o
 Aether 2 - potential performance issues, but maybe sometime in the future?  
 EE3 - ??? soon  
 Statues Mod - Depending on performance (has microblocks)  
+Chromaticraft - Waiting for updates  
 
 # List of already denied mods
 (Unbalanced means server admins have decided this.  Disagree all you want but don't argue, it won't help)
@@ -42,7 +43,6 @@ other flight mods - Meaningless
 wizardry - Performance Issues  
 Simple robots - Not Thematically Appropriate  
 chromitcraft - Performance Issues (idk what this is meant to be)  
-Chromaticraft - Performance Issues  
 the last blockbender - Not Thematically Appropriate  
 block armor - Not Thematically Appropriate  
 simply magic - Performance Issues/Underdeveloped  
