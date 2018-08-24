@@ -15,7 +15,8 @@ For other suggestions: answer whichever questions are applicable (i.e., everythi
 Erebus - Biome IDs conflict, and cannot exceed 127 (BOP uses up to 122, and Erebus uses 8), need additional libraries  
 Clay Soldiers - Fun mod, but doesn't add anything crazy, unsure of performance on server, needs further testing  
 Aether 2 - potential performance issues, but maybe sometime in the future?  
-EE3 - ??? soon
+EE3 - ??? soon  
+Statues Mod - Depending on performance (has microblocks)  
 
 # List of already denied mods
 (Unbalanced means server admins have decided this.  Disagree all you want but don't argue, it won't help)
@@ -51,6 +52,10 @@ Thaumic Bases - Unbalanced
 Druidry - Meaningless/Unfinished at 1.7.10  
 Open Blocks - Not Thematically Appropriate  
 Archimedes Ships - Performance Issues  
+Blood Magic - Had it, cycled it out  
+Evilcraft - Had it, cycled it out  
+Dimensional Doors - Performance issues/redundant to Mirror Dim  
+Any Gun mod - cmon
 
 # Other types of Suggestions
 ANY OTHER WAY TO RTP - Modded world generation messes up RTP. Deal with it.  
