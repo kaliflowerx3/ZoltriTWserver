@@ -42,6 +42,7 @@ other flight mods - Meaningless
 wizardry - Performance Issues  
 Simple robots - Not Thematically Appropriate  
 chromitcraft - Performance Issues (idk what this is meant to be)  
+Chromaticraft - Performance Issues  
 the last blockbender - Not Thematically Appropriate  
 block armor - Not Thematically Appropriate  
 simply magic - Performance Issues/Underdeveloped  
