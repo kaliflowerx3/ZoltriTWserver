@@ -58,12 +58,13 @@ Evilcraft - Had it, cycled it out
 Dimensional Doors - Performance issues/redundant to Mirror Dim  
 Any Gun mod - cmon  
 Botanical Addons - Meaningless :(  
+Thaumaturgical Knowledge - Only adds 1 thing
 
 # Other types of Suggestions
 ANY OTHER WAY TO RTP - Modded world generation messes up RTP. Deal with it.  
 Buying bat eggs - just work for em yall are lazy  
 Warp books - Unbalanced, there are plenty of ways to get places  
-Turning on keepinventory - Unbalanced, PVP should have some reward for victory  
+Turning on keepinventory - Unbalanced, PVP should have some reward for victory, vanilla default has keepinv off  
 removing the blood poppies in spawn - Unbalanced, we want them there  
 adding dragon eggs to shop - Unbalanced, not meant to be free  
 other music bots - Performance Issues (and we're not listening... LA LA LA)  
