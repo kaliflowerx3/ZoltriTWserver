@@ -59,6 +59,7 @@ Dimensional Doors - Performance issues/redundant to Mirror Dim
 Any Gun mod - cmon  
 Botanical Addons - Meaningless :(  
 Thaumaturgical Knowledge - Only adds 1 thing
+AbyssalCraft - Previously had it, performance issues
 
 # Other types of Suggestions
 ANY OTHER WAY TO RTP - Modded world generation messes up RTP. Deal with it.  
