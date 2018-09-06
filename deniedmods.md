@@ -48,7 +48,7 @@ the last blockbender - Not Thematically Appropriate
 block armor - Not Thematically Appropriate  
 simply magic - Performance Issues/Underdeveloped  
 Necromancy - Meaningless/Not Thematically Appropriate/Kinda a joke mod  
-CopiousDogs - Broken/Performance Issues
+CopiousDogs - Broken/Performance Issues  
 JeweleryCraft - Meaningless  
 Thaumic Bases - Unbalanced
 Druidry - Meaningless/Unfinished at 1.7.10  
