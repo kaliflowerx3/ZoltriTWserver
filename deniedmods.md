@@ -8,6 +8,7 @@ That depends. If you can answer ALL the below questions with a BIG YES, then sur
 4. Does it add anything meaningful?
 5. Is it balanced?
 6. Is it something known to cause performance issues on servers?
+7. DID YOU SEARCH THROUGH THE SUGGESTIONS CHANNEL AND MAKE SURE IT WAS NOT PREVIOUSLY SUGGESTED???
 
 For other suggestions: answer whichever questions are applicable (i.e., everything except 1)
 
@@ -19,48 +20,52 @@ EE3 - idk
 Statues Mod - Depending on performance (has microblocks)  
 Chromaticraft - Waiting for updates  
 Hardcore Ender Expansion - one day  
+Archmagus - Need testings  
 
 # List of already denied mods
 (Unbalanced means server admins have decided this.  Disagree all you want but don't argue, it won't help)
 
-Ars Magica - Unbalanced  
-Mr. Crayfish - Unbalanced  
-Tinker's construct - Not Thematically Appropriate  
-Astral Sorcery - No 1.7.10 version  
-Magical Crops - Unbalanced  
-Sanguimancy- Broken   
-Chisel and Bits - Performance Issues  
-Carpenters Blocks - Performance Issues  
-Project E - Not Thematically Appropriate  
-Iron chests - Meaningless   
-Extra Util - Not Thematically Appropriate  
-Backpack mod - Meaningless  
-portal gun s- Not Thematically Appropriate  
-Builders wands - Meaningless  
-decocraft - Performance Issues  
-gadomancy - Performance Issues  
-twilight forest - Performance Issues  
-other flight mods - Meaningless  
-wizardry - Performance Issues  
-Simple robots - Not Thematically Appropriate  
-chromitcraft - Performance Issues (idk what this is meant to be)  
-the last blockbender - Not Thematically Appropriate  
-block armor - Not Thematically Appropriate  
-simply magic - Performance Issues/Underdeveloped  
-Necromancy - Meaningless/Not Thematically Appropriate/Kinda a joke mod  
-CopiousDogs - Broken/Performance Issues  
-JeweleryCraft - Meaningless  
-Thaumic Bases - Unbalanced
-Druidry - Meaningless/Unfinished at 1.7.10  
-Open Blocks - Not Thematically Appropriate  
-Archimedes Ships - Performance Issues  
-Blood Magic - Had it, cycled it out  
-Evilcraft - Had it, cycled it out  
-Dimensional Doors - Performance issues/redundant to Mirror Dim  
-Any Gun mod - cmon  
-Botanical Addons - Meaningless :(  
-Thaumaturgical Knowledge - Only adds 1 thing
 AbyssalCraft - Previously had it, performance issues
+Any Gun/tanks/missile/rockets mod - cmon  
+Any mod that is based off a movie/tv show/other video game - Meaningless/Not Thematically Appropriate/Fuck you  
+Archimedes Ships - Performance Issues  
+Ars Magica - Unbalanced  
+Astral Sorcery - No 1.7.10 version  
+Backpack mod - Meaningless  
+Block armor - Not Thematically Appropriate  
+Blood Magic - Had it, cycled it out  
+Botanical Addons - Meaningless :(  
+Builders wands/Building Tools - Meaningless  
+Carpenters Blocks - Performance Issues  
+Chisel and Bits - Performance Issues  
+Chromitcraft - Performance Issues (idk what this is meant to be)  
+CopiousDogs - Broken/Performance Issues  
+Dab mod - fuck you  
+Decocraft - Performance Issues  
+Dimensional Doors - Performance issues/redundant to Mirror Dim  
+Druidry - Meaningless/Unfinished at 1.7.10  
+Evilcraft - Had it, cycled it out  
+Extra Util - Not Thematically Appropriate  
+Gadomancy - Performance Issues  
+Iron chests - Meaningless   
+JeweleryCraft - Meaningless  
+Magical Crops/farmable ores - Unbalanced  
+Mr. Crayfish - Unbalanced  
+Necromancy - Meaningless/Not Thematically Appropriate/Kinda a joke mod  
+NiftyBlocks - Redundant (Pam's for food, Chisel for deco)  
+Open Blocks - Not Thematically Appropriate  
+Other flight mods - Meaningless  
+Project E - Not Thematically Appropriate  
+Sanguimancy - Broken   
+Silent's Gems - Unbalanced  
+Simple robots - Not Thematically Appropriate  
+Simply magic - Performance Issues/Underdeveloped   
+Thaumaturgical Knowledge - Only adds 1 thing
+Thaumic Bases - Unbalanced
+Tinker's construct - Not Thematically Appropriate  
+Twilight forest - Performance Issues  
+Waystones/teleport mod - Meaningless  
+Wizardry - Performance Issues  
 
 # Other types of Suggestions
 ANY OTHER WAY TO RTP - Modded world generation messes up RTP. Deal with it.  
