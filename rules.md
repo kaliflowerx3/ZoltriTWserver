@@ -1,15 +1,14 @@
 :straight_ruler: Please read these rules carefully, and check back often to see if they've changed: :straight_ruler: 
 1. Be respectful to everyone, not just mods/owners. Trash talk is okay but know where the line is. This also applies to Discord.
-2. No griefing! In addition, do not abuse your claim powers! They can and will be taken away, leaving your stuff unprotected!
+2. No griefing! Protect yourself from griefing! It is your responsibility to maintain the upkeep of your base. See more about this below.
 3. No use of third-party software.
 4. Just because you can, doesn't mean you should. If something is clearly not meant to happen, report it! Don't exploit it. This will operate on a Warning-Tempban-Permaban basis (not necessarily for the same bug).
 5. We will not tolerate discrimination of any kind. No leeway. This includes slurs.
 6. You must be the race you ally with (see rule 4). Alliance changes are expensive, but are offered in-store at spawn.
 7. This is a mature server! Underage players will be banned.
 8. No PvP logging! Don't be a coward.
-9. You MAY NOT force chunkload a chunk with >10 Botania sparks in it.
-10. Do not attack anyone who is not the same rank as you on their claim. Check others' rank with /ar check (double check their rank on the wiki if you need to). It will be up to the DEFENDER to provide proof.
-11. You may only force-tp (Witchery rite or otherwise) someone onto UNCLAIMED LAND! We have ways of tracking this! It is up to the DEFENDER to bring it to our attention.
+9. Do not attack anyone who is not the same rank as you on their claim. Check others' rank with /ar check (double check their rank on the wiki if you need to). It will be up to the DEFENDER to provide proof.
+10. You may only force-tp (Witchery rite or otherwise) someone onto UNCLAIMED LAND! We have ways of tracking this! It is up to the DEFENDER to bring it to our attention.
 
 :shield: DEFENDER: :shield:   
 - If you are on your claim and you are attacked, you are the defender.  
@@ -33,3 +32,8 @@
 1. Your nick must have some indication of who you are in-game
 2. If you don't have your correct role, put your name and chosen role in #i-need-a-role 
 3. Other discord server links are OK as long as they're not for other minecraft servers
+
+:bookmark_tabs: Greifing :bookmark_tabs:
+We play on a modded server, so preventing all forms of grief is impossible. I have instead opted to *log* what happens on claims. I log the use of certain items and entry into claims you aren't trusted on, and a few others. However, if you were offline for 14 days, and 30 people walked into your claim and used wands/other stuff, it is nearly impossible for me to figure out who did it. In addition, these logs get lengthy, even thought there's just 1 line of text per event. Because of these reasons, griefing WILL NOT be acted upon (rolled back/refunded) or investigated if the window in which it occurred is more than 7 days not inclusive (that means >7 days not >=7 days). It sucks, but I can't spend hours of my time looking through 300 lines of text.
+
+As always, if you have ANY questions, feel free to PM me! And please do so BEFORE doing something questionable, not after.
