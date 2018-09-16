@@ -7,11 +7,9 @@
 6. You must be the race you ally with (see rule 4). Alliance changes are expensive, but are offered in-store at spawn.
 7. This is a mature server! Underage players will be banned.
 8. No PvP logging! Don't be a coward.
-9. Do not attack anyone who is not the same rank as you on their claim. Check others' rank with /ar check (double check their rank on the wiki if you need to). It will be up to the DEFENDER to provide proof.
-10. You may only force-tp (Witchery rite or otherwise) someone onto UNCLAIMED LAND! We have ways of tracking this! It is up to the DEFENDER to bring it to our attention.
+9. You may only force-tp (Witchery rite or otherwise) someone onto UNCLAIMED LAND! We have ways of tracking this! It is up to the DEFENDER to bring it to our attention.
 
 :shield: DEFENDER: :shield:   
-- If you are on your claim and you are attacked, you are the defender.  
 - If you are summoned by someone else (force-tp) you are the defender.
 - There is no defender in PvP outside of claims (or summoning)!  
 - There is no defender in Arena PvP.  
@@ -20,11 +18,11 @@
 - Hungry Bag (dupe bug)
 - All of the Imbued Fires except Ordo (crashes and lags server)
 - Alchemite (crashes server)
-- Bag of Tricks (dupe bug) (see #plugin-guides for alt recipes)
+- Bag of Tricks (dupe bug) (see Custom Recipes for alt recipes)
 - Resolute Ivy (deletes items)
 - Brew of Erosion (used for griefing)
 - Tome of Knowledge Sharing (humans only)
-- Shard of Laputa (used for griefing)
+- Shard of Laputa (used for griefing; if you want the effects ask Kali and i will raise a thing for you)  
 - Time focus (too many time wars)
 - Loonium (guilty pools + loonium = op)
 
