@@ -8,11 +8,30 @@
 7. This is a mature server! Underage players will be banned.
 8. No PvP logging! Don't be a coward.
 9. You may only force-tp (Witchery rite or otherwise) someone onto UNCLAIMED LAND! We have ways of tracking this! It is up to the DEFENDER to bring it to our attention.
+10. Do not make someone's game unplayable! (see below)
 
 :shield: DEFENDER: :shield:   
 - If you are summoned by someone else (force-tp) you are the defender.
 - There is no defender in PvP outside of claims (or summoning)!  
 - There is no defender in Arena PvP.  
+
+:video_game: UNPLAYABLE :video_game:   
+What this is:
+```
+I can't go to my base.
+I'm a newcomer and I've been cursed with waking nightmare.
+I get disconnected/lag from what they did near/in my base.
+They are killing me/tping me over and over for longer than 10 minutes.
+```
+
+What this isn't:
+```
+I don't feel safe while they are online.
+They make me mad by talking in chat (/ignore!)
+They keep cursing me with something that doesn't kill me.
+They stole my hard-to-make gear through legitimate means and now I have to start again.
+```
+When in doubt, send me a note BEFORE you do it!!!
 
 :police_car: Outlawed (disabled) items: :police_car: 
 - Hungry Bag (dupe bug)
