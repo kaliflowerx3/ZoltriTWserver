@@ -44,7 +44,7 @@ When in doubt, send me a note BEFORE you do it!!!
 - Shard of Laputa (used for griefing; if you want the effects ask Kali and i will raise a thing for you)  
 - Time focus (too many time wars)
 - Loonium (guilty pools + loonium = op)
-- Transvector Dislocator (restricted use, call Kali)
+- Transvector Dislocator (restricted use, if you need one call Kali)
 
 :headphones: Discord rules: :headphones: 
 1. Your nick must have some indication of who you are in-game
