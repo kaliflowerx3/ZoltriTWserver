@@ -1,35 +1,38 @@
-# features:
-make god from block structure in game  
-worship (rightclick? shift?) at the altar to make god happy and rank up  
-happier god = better perks  
-ranks within your religion: member, priest, prophet, etc.  
-holy book: written and distributed by prophet  
-everyone starts off as no religion (new players i mean), must be "converted" by a member of the religion. similiarly, changing religions requires you to have someone from your target religion take you to the altar.
-must bring forth god's chosen artifact to sacrifice to become that religion
+# Worship by Kali:
+head to the god hall to view the gods, but you must be converted (tpa'd) by a follower.  
 
-## pleasing your god:
-### non-vamps:  
-eating or drinking holy stuff
-### vamps:  
-- drinking from villagers  
-- dependant on villager type (priest, butcher, farmer, blacksmith, librarian) e.g. Jesus only wants you to drink from non-priest villagers  
-- does your god want you to kill villagers?  
-### sacrifices:  
-- killing animals near altar  
-- dropping items into/onto certain blocks  
-- killing players!! near altar (killing prophet of enemy god is more points!!??)  
-## angery god:  
-- negative potion effects
-- random hunger, random health stolen
-- random blood stolen?
-- tps you randomly
-- steals money
-- steals items? (from list of items: iron, gold, diamonds, other resources; not wands or stuff like that lol)
-  
-## blessings:
-- at regular intervals, a random member/members will be "blessed" with item/potion effects/money?/**warp?**  
-- quality of blessing dependant on how powerful your god is and how happy  
-## marriage?:
-- you can get married by priest, and then love each other near the altar for points  
-- maybe tp to each other instantly  
-- being near your spouse gives buff?   
+## :smile_cat: to make your god happy: :smile_cat:  
+- worship (plain right click, once an hour)
+- eating the chosen food (changes weekly, dont eat old holy foods!)
+- drinking from chosen villagers
+- when your god asks for it, sacrifice as many of what they ask for in 15 minutes!
+- milk cows? lol
+- harvest mature chosen crops in the holy lands
+- plant chosen saplings in the holy lands
+- invite more players to join your god
+
+## :pouting_cat: to make your god mad: :pouting_cat: 
+- eat unholy foods
+- harm villagers if theyre not into that
+- ignore them
+- leave them for another god/abandon all faith
+
+## :smirk_cat: you: :smirk_cat: 
+- piety = your score within that god
+- more piety, better chance of getting blessed
+- above a certain threshold and you are promoted to priest
+- out of the priests, a prophet is chosen, who writes the holy scripture, interprets the god's wishes (holy foods, holy items, unholy items)
+
+## :scream_cat: blessings/cursing: :scream_cat: 
+your god will bless or curse you depending on their mood! with increasing potency! they might even steal ur stuff or KILL you!
+
+## To Come
+- mini altars for priests and up for in your home
+- sacrificing players
+- sacrificing mobs
+- marriage
+- customizing sacrifice liquid (currently only lava)
+- customizing worship sound (currently VILLAGER_YES)
+- put more suggestions in #suggestions
+
+*Worship was insp. by DogOnFire's God plugin.*
