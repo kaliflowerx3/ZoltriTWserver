@@ -15,9 +15,7 @@ For other suggestions: answer whichever questions are applicable (i.e., everythi
 # List of potential future mods
 Erebus - Biome IDs conflict, and cannot exceed 127 (BOP uses up to 122, and Erebus uses 8), need additional libraries  
 Clay Soldiers - Fun mod, but doesn't add anything crazy, unsure of performance on server, needs further testing  
-Aether 2 - potential performance issues, but maybe sometime in the future?  
-EE3 - idk  
-Statues Mod - Depending on performance (has microblocks)  
+Aether 2 - potential performance issues, but maybe sometime in the future?
 Chromaticraft - Waiting for updates  
 Hardcore Ender Expansion - one day  
 Archmagus - Need testings  
