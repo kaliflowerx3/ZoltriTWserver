@@ -4,7 +4,7 @@ head to the god hall to view the gods, but you must be converted (tpa'd) by a fo
 ## :smile_cat: to make your god happy: :smile_cat:  
 - worship (plain right click, once an hour)
 - eating the chosen food (changes weekly, dont eat old holy foods!)
-- drinking from chosen villagers
+- drinking from chosen villagers (vamps, hold a glass bottle in your first hotbar slot to drink for your god)
 - when your god asks for it, sacrifice as many of what they ask for in 15 minutes!
 - milk cows? lol
 - harvest mature chosen crops in the holy lands
@@ -26,7 +26,7 @@ head to the god hall to view the gods, but you must be converted (tpa'd) by a fo
 ## :scream_cat: blessings/cursing: :scream_cat: 
 your god will bless or curse you depending on their mood! with increasing potency! they might even steal ur stuff or KILL you!
 
-## To Come
+### To Come
 - piety decays to a certain point, kicked out of religion
 - mini altars for priests and up for in your home
 - sacrificing players
