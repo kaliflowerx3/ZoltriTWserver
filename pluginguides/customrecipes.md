@@ -18,3 +18,5 @@ string + void seed + cloth of spacious folds = voidlinked bag
 primordial mote x3 = primordial nodule (shapeless)  
 ![](https://cdn.discordapp.com/attachments/316417390214774785/455367901143236608/unknown.png)  
 primordial nodule x3 = primordial pearl (shapeless)  
+
+## Shift-right click on a villager to bottle its blood! (Warning, not as efficient as actually drinking).
