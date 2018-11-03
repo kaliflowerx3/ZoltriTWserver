@@ -43,7 +43,7 @@ Decocraft - Performance Issues
 Dimensional Doors - Performance issues/redundant to Mirror Dim  
 Druidry - Meaningless/Unfinished at 1.7.10  
 Evilcraft - Had it, cycled it out  
-Extra Util - Not Thematically Appropriate  
+Extra Util - Not Thematically Appropriate   
 Gadomancy - Performance Issues  
 Iron chests - Meaningless   
 JeweleryCraft - Meaningless  
@@ -58,8 +58,8 @@ Sanguimancy - Broken
 Silent's Gems - Unbalanced  
 Simple robots - Not Thematically Appropriate  
 Simply magic - Performance Issues/Underdeveloped   
-Thaumaturgical Knowledge - Only adds 1 thing
-Thaumic Bases - Unbalanced
+Thaumaturgical Knowledge - Only adds 1 thing  
+Thaumic Bases - Unbalanced  
 Tinker's construct - Not Thematically Appropriate  
 Twilight forest - Performance Issues  
 Waystones/teleport mod - Meaningless  
