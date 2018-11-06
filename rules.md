@@ -45,6 +45,7 @@ When in doubt, send me a note BEFORE you do it!!!
 - Time focus (too many time wars)
 - Loonium (guilty pools + loonium = op)
 - Transvector Dislocator (restricted use, if you need one call Kali)
+- Brew of Keep Items/Sticky Items (not banned really, but it often does not work, and just deleted your items instead)
 
 :headphones: Discord rules: :headphones: 
 1. Your nick must have some indication of who you are in-game
