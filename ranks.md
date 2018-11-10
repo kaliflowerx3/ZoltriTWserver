@@ -3,12 +3,12 @@ Use /ar check to check your own or someone else's rank
 
 rank | time | perks
 ---|---|---
-newcomer | 0h | first rank, no perks :(
-rank1 | 24h | hooray you're a real player
-rank2 | 5d | oh? another /sethome!
-rank3 | 10d | total 3 sethomes!
-rank4 | 30d | access to /back
-rank5 | 50d | unlimited claims
+newcomer | 0h | first rank, no perks :(, default 10k claimblocks
+rank1 | 24h | hooray you're a real player, 20k claimblocks
+rank2 | 5d | oh? another /sethome!, 30k claimblocks
+rank3 | 10d | total 3 sethomes, 40k claimblocks
+rank4 | 30d | access to /back, 50k claimblocks
+rank5 | 50d | 60k claimblocks, <secret other stuff!>
 
 name | meaning
 --- | ---
