@@ -23,7 +23,7 @@ Archmagus - Need testings
 # List of already denied mods
 (Unbalanced means server admins have decided this.  Disagree all you want but don't argue, it won't help)
 
-AbyssalCraft - Previously had it, performance issues
+AbyssalCraft - Previously had it, performance issues  
 Advanced Energistics - Not Thematically Appropriate  
 Any Gun/tanks/missile/rockets mod - cmon  
 Any mod that is based off a movie/tv show/other video game - Meaningless/Not Thematically Appropriate/Fuck you  
