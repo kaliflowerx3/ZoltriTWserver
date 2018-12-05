@@ -64,7 +64,7 @@ Thaumic Bases - Unbalanced
 Tinker's construct - Not Thematically Appropriate  
 Twilight forest - Performance Issues  
 Waystones/teleport mod - Meaningless  
-Wizardry - Performance Issues  
+Electroblob's Wizardry - Performance Issues  
 
 # Other types of Suggestions
 ANY OTHER WAY TO RTP - Modded world generation messes up RTP. Deal with it.  
