@@ -1,6 +1,15 @@
 # Worship by Kali:
 head to the god hall to view the gods, but you must be converted (tpa'd) by a follower.  
 
+## :poop: commands :poop:  
+- /ws check - check your own or another player's stats.
+- /ws list - check your religion's members.
+- /ws sacrifice - check your god's desired sacrificial item (if applicable).
+- /ws holylands - teleport to your god's holylands.
+- /ws validate - Re-add yourself to /ws list and appropriate roles.
+- /ws help pp - see commands for PRIEST or HIGHER.
+- It changes often, so use /worship or /ws help often to see whats up
+
 ## :smile_cat: to make your god happy: :smile_cat:  
 - worship (plain right click, once an hour)
 - eating the chosen food (changes weekly, dont eat old holy foods!)
@@ -26,7 +35,6 @@ your god will bless or curse you depending on their mood! with increasing potenc
 
 ### To Come
 - piety decays to a certain point, kicked out of religion
-- mini altars for priests and up for in your home
 - sacrificing players
 - sacrificing mobs
 - marriage
