@@ -44,7 +44,7 @@ When in doubt, send me a note BEFORE you do it!!!
 - Shard of Laputa (used for griefing; if you want the effects ask Kali and i will raise a thing for you)  
 - Time focus (too many time wars)
 - Loonium (guilty pools + loonium = op)
-- Transvector Dislocator (restricted use, if you need one call Kali)
+- Transvector Dislocator (restricted use, you can hold one but can't place it)
 - Brew of Keep Items/Sticky Items (not banned really, but it often does not work, and just deleted your items instead)
 
 :headphones: Discord rules: :headphones: 
