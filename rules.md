@@ -44,8 +44,12 @@ When in doubt, send me a note BEFORE you do it!!!
 - Shard of Laputa (used for griefing; if you want the effects ask Kali and i will raise a thing for you)  
 - Time focus (too many time wars)
 - Loonium (guilty pools + loonium = op)
-- Transvector Dislocator (restricted use, you can hold one but can't place it)
+- RESTRICTED: Transvector Dislocator (you can hold one but can't place it)
 - Brew of Keep Items/Sticky Items (not banned really, but it often does not work, and just deleted your items instead)
+- Rod of the Terra Firma (greifing)
+- RESTRICTED: Ore magnet (not allowed in overworld)
+- RESTRICTED: Miner's Tree (not allowed in overworld)
+- Charms of Keeping (sometimes deletes items)
 
 :headphones: Discord rules: :headphones: 
 1. Your nick must have some indication of who you are in-game
