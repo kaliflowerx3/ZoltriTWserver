@@ -3,7 +3,7 @@
 2. No griefing! Protect yourself from griefing! It is your responsibility to maintain the upkeep of your base. See more about this below.
 3. No use of third-party software.
 4. Just because you can, doesn't mean you should. If something is clearly not meant to happen, report it! Don't exploit it. This will operate on a Warning-Tempban-Permaban basis (not necessarily for the same bug).
-5. We will not tolerate discrimination of any kind. No leeway. This includes slurs.
+5. We will not tolerate discrimination of any kind. This includes slurs. PLEASE LOOK UP WHAT SLURS ARE YOU *WILL* BE AUTOBANNED!
 6. You must be the race you ally with (see rule 4). Alliance changes are expensive, but are offered in-store at spawn.
 7. This is a mature server! Underage players will be banned.
 8. No PvP logging! Don't be a coward.
