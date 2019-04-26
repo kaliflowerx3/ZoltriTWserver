@@ -1,5 +1,5 @@
 :straight_ruler: Please read these rules carefully, and check back often to see if they've changed: :straight_ruler: 
-1. Be respectful to everyone, not just mods/owners. Trash talk is okay but know where the line is. This also applies to Discord.
+1. Be respectful to everyone, not just mods/owners. This also means USING PEOPLE'S PREFFERED PRONOUNS! Check tablist or roles on Discord.
 2. No griefing! Protect yourself from griefing! It is your responsibility to maintain the upkeep of your base. See more about this below.
 3. No use of third-party software.
 4. Just because you can, doesn't mean you should. If something is clearly not meant to happen, report it! Don't exploit it. This will operate on a Warning-Tempban-Permaban basis (not necessarily for the same bug).
