@@ -17,7 +17,8 @@ Erebus - Biome IDs conflict, and cannot exceed 127 (BOP uses up to 122, and Ereb
 Clay Soldiers - Fun mod, but doesn't add anything crazy, unsure of performance on server, needs further testing  
 Aether 2 - potential performance issues, but maybe sometime in the future?  
 Chromaticraft - Waiting for updates  
-Hardcore Ender Expansion - one day  
+TragicMC 2 - need testings
+
 Archmagus - Need testings  
 
 # List of already denied mods
@@ -41,7 +42,7 @@ Chromitcraft - Performance Issues (idk what this is meant to be)
 CopiousDogs - Broken/Performance Issues  
 Dab mod - fuck you  
 Decocraft - Performance Issues  
-Dimensional Doors - Performance issues/redundant to Mirror Dim  
+Dimensional Doors - Redundant to Mirror Dim/No 1.7.10  
 Druidry - Meaningless/Unfinished at 1.7.10  
 Evilcraft - Had it, cycled it out  
 Extra Util - Not Thematically Appropriate   
