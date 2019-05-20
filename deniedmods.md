@@ -15,14 +15,12 @@ For other suggestions: answer whichever questions are applicable (i.e., everythi
 # List of potential future mods
 [Clay Soldiers](https://minecraft.curseforge.com/projects/clay-soldiers-mod?gameCategorySlug=mc-mods&projectID=227543) - Fun mod, but doesn't add anything crazy, unsure of performance on server, needs further testing  
 [Chromaticraft](https://minecraft.curseforge.com/projects/chromaticraft?gameCategorySlug=mc-mods&projectID=235590) - Waiting for updates  
-[Wings Horns & Hooves](https://minecraft.curseforge.com/projects/wings-horns-hooves-the-ultimate-unicorn-mod) - looks promising  
-[Mailboxes](http://www.9minecraft.net/mailbox-mod/) - adds so little...  
 [Archmagus](https://minecraft.curseforge.com/projects/archmagus?gameCategorySlug=mc-mods&projectID=223126) - Need testings  
 
 ### Dimension Mods:  
 [Erebus](https://minecraft.curseforge.com/projects/the-erebus?gameCategorySlug=mc-mods&projectID=220698) - Biome IDs conflict, and cannot exceed 127 (BOP uses up to 122, and Erebus uses 8), need additional libraries  
 [Aether 2](https://minecraft.curseforge.com/projects/the-aether-ii) - potential performance issues, but maybe sometime in the future?  
-[TragicMC 2](https://minecraft.curseforge.com/projects/tragicmc2?gameCategorySlug=mc-mods&projectID=74378) - looks really fun, some balance issues   
+[TragicMC 2](https://minecraft.curseforge.com/projects/tragicmc2?gameCategorySlug=mc-mods&projectID=74378) - looks really fun, some balance issues, performance issues   
 
 # List of already denied mods
 (Unbalanced means server admins have decided this.  Disagree all you want but don't argue, it won't help)
