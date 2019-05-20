@@ -3,7 +3,7 @@
 That depends. If you can answer ALL the below questions with a BIG YES, then sure, go ahead.
 
 1. IS YOUR MOD AVAILABLE FOR 1.7.10?
-2. Do you have a link?
+2. Do you have a link? (preferrably curseforge)
 3. Does it fit with the ZoltriTW theme (i.e., Magic not Tech?)
 4. Does it add anything meaningful?
 5. Is it balanced?
@@ -17,10 +17,11 @@ Erebus - Biome IDs conflict, and cannot exceed 127 (BOP uses up to 122, and Ereb
 Clay Soldiers - Fun mod, but doesn't add anything crazy, unsure of performance on server, needs further testing  
 Aether 2 - potential performance issues, but maybe sometime in the future?  
 Chromaticraft - Waiting for updates  
-TragicMC 2 - need testings
-Horses - pending
-Mailboxes - pending
-Archmagus - Need testings  
+[TragicMC 2](https://minecraft.curseforge.com/projects/tragicmc2?gameCategorySlug=mc-mods&projectID=74378) - need testings
+[Wings Horns & Hooves](https://minecraft.curseforge.com/projects/wings-horns-hooves-the-ultimate-unicorn-mod) - need testings
+[Mailboxes](http://www.9minecraft.net/mailbox-mod/) - need testings
+Archmagus - Need testings 
+[Aether I???](https://aether.fandom.com/wiki/1.7.10-1.0) - need testings
 
 # List of already denied mods
 (Unbalanced means server admins have decided this.  Disagree all you want but don't argue, it won't help)
@@ -63,8 +64,7 @@ Simple robots - Not Thematically Appropriate
 Simply magic - Performance Issues/Underdeveloped   
 Thaumaturgical Knowledge - Only adds 1 thing  
 Thaumic Bases - Unbalanced  
-Tinker's construct - Not Thematically Appropriate  
-Twilight forest - Performance Issues  
+Tinker's construct - Not Thematically Appropriate 
 Waystones/teleport mod - Meaningless  
 Electroblob's Wizardry - Performance Issues  
 
