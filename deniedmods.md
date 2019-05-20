@@ -8,7 +8,7 @@ That depends. If you can answer ALL the below questions with a BIG YES, then sur
 4. Does it add anything meaningful?
 5. Is it balanced?
 6. Is it something known to cause performance issues on servers?
-7. DID YOU SEARCH THROUGH THE SUGGESTIONS CHANNEL AND MAKE SURE IT WAS NOT PREVIOUSLY SUGGESTED???
+7. DID YOU SEARCH THROUGH THIS LIST AND MAKE SURE IT WAS NOT PREVIOUSLY SUGGESTED???
 
 For other suggestions: answer whichever questions are applicable (i.e., everything except 1)
 
