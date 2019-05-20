@@ -17,11 +17,11 @@ Erebus - Biome IDs conflict, and cannot exceed 127 (BOP uses up to 122, and Ereb
 Clay Soldiers - Fun mod, but doesn't add anything crazy, unsure of performance on server, needs further testing  
 Aether 2 - potential performance issues, but maybe sometime in the future?  
 Chromaticraft - Waiting for updates  
-[TragicMC 2](https://minecraft.curseforge.com/projects/tragicmc2?gameCategorySlug=mc-mods&projectID=74378) - need testings
-[Wings Horns & Hooves](https://minecraft.curseforge.com/projects/wings-horns-hooves-the-ultimate-unicorn-mod) - need testings
-[Mailboxes](http://www.9minecraft.net/mailbox-mod/) - need testings
-Archmagus - Need testings 
-[Aether I???](https://aether.fandom.com/wiki/1.7.10-1.0) - need testings
+[TragicMC 2](https://minecraft.curseforge.com/projects/tragicmc2?gameCategorySlug=mc-mods&projectID=74378) - need testings  
+[Wings Horns & Hooves](https://minecraft.curseforge.com/projects/wings-horns-hooves-the-ultimate-unicorn-mod) - need testings  
+[Mailboxes](http://www.9minecraft.net/mailbox-mod/) - need testings  
+Archmagus - Need testings  
+[Aether I???](https://aether.fandom.com/wiki/1.7.10-1.0) - need testings  
 
 # List of already denied mods
 (Unbalanced means server admins have decided this.  Disagree all you want but don't argue, it won't help)
