@@ -16,7 +16,7 @@ For other suggestions: answer whichever questions are applicable (i.e., everythi
 [Clay Soldiers](https://minecraft.curseforge.com/projects/clay-soldiers-mod?gameCategorySlug=mc-mods&projectID=227543) - Fun mod, but doesn't add anything crazy, unsure of performance on server, needs further testing  
 [Chromaticraft](https://minecraft.curseforge.com/projects/chromaticraft?gameCategorySlug=mc-mods&projectID=235590) - Waiting for updates  
 [Wings Horns & Hooves](https://minecraft.curseforge.com/projects/wings-horns-hooves-the-ultimate-unicorn-mod) - looks promising  
-[Mailboxes](http://www.9minecraft.net/mailbox-mod/) - adds so little... 
+[Mailboxes](http://www.9minecraft.net/mailbox-mod/) - adds so little...  
 [Archmagus](https://minecraft.curseforge.com/projects/archmagus?gameCategorySlug=mc-mods&projectID=223126) - Need testings  
 
 ### Dimension Mods:  
