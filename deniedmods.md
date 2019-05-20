@@ -16,13 +16,14 @@ For other suggestions: answer whichever questions are applicable (i.e., everythi
 [Erebus](https://minecraft.curseforge.com/projects/the-erebus?gameCategorySlug=mc-mods&projectID=220698) - Biome IDs conflict, and cannot exceed 127 (BOP uses up to 122, and Erebus uses 8), need additional libraries  
 [Clay Soldiers](https://minecraft.curseforge.com/projects/clay-soldiers-mod?gameCategorySlug=mc-mods&projectID=227543) - Fun mod, but doesn't add anything crazy, unsure of performance on server, needs further testing  
 [Aether 2](https://minecraft.curseforge.com/projects/the-aether-ii) - potential performance issues, but maybe sometime in the future?  
+[Aether I???](https://aether.fandom.com/wiki/1.7.10-1.0) - need testings  
+[Aether Legacy](https://minecraft.curseforge.com/projects/the-aether?gameCategorySlug=mc-mods&projectID=255308) - its actually being updated, but needs testing also whats the difference between all these versions???  
 [Chromaticraft](https://minecraft.curseforge.com/projects/chromaticraft?gameCategorySlug=mc-mods&projectID=235590) - Waiting for updates  
 [TragicMC 2](https://minecraft.curseforge.com/projects/tragicmc2?gameCategorySlug=mc-mods&projectID=74378) - need testings  
 [Wings Horns & Hooves](https://minecraft.curseforge.com/projects/wings-horns-hooves-the-ultimate-unicorn-mod) - need testings  
 [Mailboxes](http://www.9minecraft.net/mailbox-mod/) - need testings  
 [Archmagus](https://minecraft.curseforge.com/projects/archmagus?gameCategorySlug=mc-mods&projectID=223126) - Need testings  
-[Aether I???](https://aether.fandom.com/wiki/1.7.10-1.0) - need testings  
-[Aether Legacy](https://minecraft.curseforge.com/projects/the-aether?gameCategorySlug=mc-mods&projectID=255308) - its actually being updated, but needs testing also whats the difference between all these versions???
+
 
 # List of already denied mods
 (Unbalanced means server admins have decided this.  Disagree all you want but don't argue, it won't help)
