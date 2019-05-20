@@ -18,7 +18,8 @@ Clay Soldiers - Fun mod, but doesn't add anything crazy, unsure of performance o
 Aether 2 - potential performance issues, but maybe sometime in the future?  
 Chromaticraft - Waiting for updates  
 TragicMC 2 - need testings
-
+Horses - pending
+Mailboxes - pending
 Archmagus - Need testings  
 
 # List of already denied mods
