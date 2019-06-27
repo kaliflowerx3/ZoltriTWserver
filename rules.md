@@ -10,11 +10,6 @@
 9. You may only force-tp (Witchery rite or otherwise) someone onto UNCLAIMED LAND! We have ways of tracking this! It is up to the DEFENDER to bring it to our attention.
 10. Do not make someone's game unplayable! (see below)
 
-:shield: DEFENDER: :shield:   
-- If you are summoned by someone else (force-tp) you are the defender.
-- There is no defender in PvP outside of claims (or summoning)!  
-- There is no defender in Arena PvP.  
-
 :video_game: UNPLAYABLE :video_game:   
 What this is:
 ```
@@ -31,8 +26,6 @@ They make me mad by talking in chat (/ignore!)
 They keep cursing me with something that doesn't kill me.
 They stole my hard-to-make gear through legitimate means and now I have to start again.
 ```
-When in doubt, send me a note BEFORE you do it!!!
-
 :police_car: Outlawed (disabled) items: :police_car: 
 - Hungry Bag (dupe bug)
 - All of the Imbued Fires except Ordo (crashes and lags server)
@@ -40,8 +33,8 @@ When in doubt, send me a note BEFORE you do it!!!
 - Bag of Tricks (dupe bug) (see Custom Recipes for alt recipes)
 - Resolute Ivy (deletes items)
 - Brew of Erosion (used for griefing)
-- Tome of Knowledge Sharing (humans only)
-- Shard of Laputa (used for griefing; if you want the effects ask Kali and i will raise a thing for you)  
+- RESTRICTED: Tome of Knowledge Sharing (humans only)
+- RESTRICTED: Shard of Laputa (used for griefing; if you want the effects ask Kali and i will raise a thing for you)  
 - Time focus (too many time wars)
 - Loonium (guilty pools + loonium = op)
 - RESTRICTED: Transvector Dislocator (you can hold one but can't place it)
@@ -49,6 +42,7 @@ When in doubt, send me a note BEFORE you do it!!!
 - Rod of the Terra Firma (greifing)
 - RESTRICTED: Ore magnet (not allowed in overworld)
 - RESTRICTED: Miner's Tree (not allowed in overworld)
+- DISABLED: Wand of Dropsies
 - Charms of Keeping (sometimes deletes items)
 
 :headphones: Discord rules: :headphones: 
@@ -57,6 +51,6 @@ When in doubt, send me a note BEFORE you do it!!!
 3. Other discord server links are OK as long as they're not for other minecraft servers
 
 :bookmark_tabs: Greifing :bookmark_tabs:  
-We play on a modded server, so preventing all forms of grief is impossible. I have instead opted to *log* what happens on claims. I log the use of certain items and entry into claims you aren't trusted on, and a few others. However, if you were offline for 14 days, and 30 people walked into your claim and used wands/other stuff, it is nearly impossible for me to figure out who did it. In addition, these logs get lengthy, even thought there's just 1 line of text per event. Because of these reasons, griefing WILL NOT be acted upon (rolled back/refunded) or investigated if the window in which it occurred is more than 7 days not inclusive (that means >7 days not >=7 days). It sucks, but I can't spend hours of my time looking through 16k lines of text.
+Griefing WILL NOT be acted upon (rolled back/refunded) or investigated if the window in which it occurred is more than 7 days not inclusive (that means >7 days not >=7 days).
 
 As always, if you have ANY questions, feel free to PM me! And please do so BEFORE doing something questionable, not after.
