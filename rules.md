@@ -42,8 +42,9 @@ They stole my hard-to-make gear through legitimate means and now I have to start
 - Rod of the Terra Firma (greifing)
 - RESTRICTED: Ore magnet (not allowed in overworld)
 - RESTRICTED: Miner's Tree (not allowed in overworld)
-- DISABLED: Wand of Dropsies
+- DISABLED: Wand of Dropsies (dupe)
 - Charms of Keeping (sometimes deletes items)
+- Slotted Book (dupe)
 
 :headphones: Discord rules: :headphones: 
 1. Your nick must have some indication of who you are in-game
