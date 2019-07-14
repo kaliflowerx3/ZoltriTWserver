@@ -10,7 +10,8 @@ That depends. If you can answer ALL the below questions with a BIG YES, then sur
 6. Is it something known to cause performance issues on servers?
 7. DID YOU SEARCH THROUGH THIS LIST AND MAKE SURE IT WAS NOT PREVIOUSLY SUGGESTED???
 
-For other suggestions: answer whichever questions are applicable (i.e., everything except 1)
+For other suggestions: answer whichever questions are applicable (i.e., everything except 1)  
+___
 
 <details>
   <summary><b>List of potential future mods </b></summary>  
