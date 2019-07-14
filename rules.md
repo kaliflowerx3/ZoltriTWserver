@@ -45,6 +45,7 @@ They stole my hard-to-make gear through legitimate means and now I have to start
 - DISABLED: Wand of Dropsies (dupe)
 - Charms of Keeping (sometimes deletes items)
 - Slotted Book (dupe)
+- Liquefaction Focus
 
 :headphones: Discord rules: :headphones: 
 1. Your nick must have some indication of who you are in-game
