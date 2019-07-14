@@ -13,7 +13,8 @@ That depends. If you can answer ALL the below questions with a BIG YES, then sur
 For other suggestions: answer whichever questions are applicable (i.e., everything except 1)
 
 <details>
-  <summary><b>List of potential future mods </summary>
+  <summary><b>List of potential future mods </summary>  
+    
 [Clay Soldiers](https://minecraft.curseforge.com/projects/clay-soldiers-mod?gameCategorySlug=mc-mods&projectID=227543) - Fun mod, but doesn't add anything crazy, unsure of performance on server, needs further testing  
 [Chromaticraft](https://minecraft.curseforge.com/projects/chromaticraft?gameCategorySlug=mc-mods&projectID=235590) - Waiting for updates  
 [Archmagus](https://minecraft.curseforge.com/projects/archmagus?gameCategorySlug=mc-mods&projectID=223126) - Need testings  
@@ -25,7 +26,8 @@ For other suggestions: answer whichever questions are applicable (i.e., everythi
 </details>  
 
 <details>
-  <summary><b>List of already denied mods </summary>
+  <summary><b>List of already denied mods </summary>  
+    
 (Unbalanced means server admins have decided this.  Disagree all you want but don't argue, it won't help)
 
 AbyssalCraft - Previously had it, performance issues  
@@ -73,7 +75,8 @@ Electroblob's Wizardry - Performance Issues
 </details>  
 
 <details>
-  <summary><b>Other types of Suggestions </summary>
+  <summary><b>Other types of Suggestions </summary>  
+    
 ANY OTHER WAY TO RTP - Modded world generation messes up RTP. Deal with it.  
 Buying bat eggs - just work for em yall are lazy  
 Warp books - Unbalanced, there are plenty of ways to get places  
