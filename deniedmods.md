@@ -19,7 +19,7 @@ For other suggestions: answer whichever questions are applicable (i.e., everythi
 [Chromaticraft](https://minecraft.curseforge.com/projects/chromaticraft?gameCategorySlug=mc-mods&projectID=235590) - Waiting for updates  
 [Archmagus](https://minecraft.curseforge.com/projects/archmagus?gameCategorySlug=mc-mods&projectID=223126) - Need testings  
 
-### Dimension Mods:  
+**Dimension Mods:**  
 [Erebus](https://minecraft.curseforge.com/projects/the-erebus?gameCategorySlug=mc-mods&projectID=220698) - Biome IDs conflict, and cannot exceed 127 (BOP uses up to 122, and Erebus uses 8), need additional libraries  
 [Aether 2](https://minecraft.curseforge.com/projects/the-aether-ii) - potential performance issues, but maybe sometime in the future?  
 [TragicMC 2](https://minecraft.curseforge.com/projects/tragicmc2?gameCategorySlug=mc-mods&projectID=74378) - looks really fun, some balance issues, performance issues  
