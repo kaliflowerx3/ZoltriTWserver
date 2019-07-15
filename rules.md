@@ -27,25 +27,28 @@ They keep cursing me with something that doesn't kill me.
 They stole my hard-to-make gear through legitimate means and now I have to start again.
 ```
 :police_car: Outlawed (disabled) items: :police_car: 
-- Hungry Bag (dupe bug)
+
 - All of the Imbued Fires except Ordo (crashes and lags server)
 - Alchemite (crashes server)
-- Bag of Tricks (dupe bug) (see Custom Recipes for alt recipes)
+- Brew of Keep Items/Sticky Items (not banned but often deletes your items)
 - Resolute Ivy (deletes items)
+- Charms of Keeping (sometimes deletes items)
+- Sortingwood Engine (deletes items)
 - Brew of Erosion (used for griefing)
+- Rod of the Terra Firma (greifing)
+- Bag of Tricks (dupe bug) (see Custom Recipes for alt recipes)
+- Hungry Bag (dupe bug)
+- Slotted Book (dupe)
+- Time focus (time wars bad)
+- Liquefaction Focus (breaks furnace recipes)
+- DISABLED: Wand of Dropsies (dupe, you can have it but it doesn't do anything)
+
+:oncoming_police_car: Restricted items (use is limited): :oncoming_police_car: 
 - RESTRICTED: Tome of Knowledge Sharing (humans only)
 - RESTRICTED: Shard of Laputa (used for griefing; if you want the effects ask Kali and i will raise a thing for you)  
-- Time focus (too many time wars)
-- Loonium (guilty pools + loonium = op)
-- RESTRICTED: Transvector Dislocator (you can hold one but can't place it)
-- Brew of Keep Items/Sticky Items (not banned really, but it often does not work, and just deleted your items instead)
-- Rod of the Terra Firma (greifing)
+- RESTRICTED: Transvector Dislocator (you can hold one but can't place it, can use to craft still)
 - RESTRICTED: Ore magnet (not allowed in overworld)
 - RESTRICTED: Miner's Tree (not allowed in overworld)
-- DISABLED: Wand of Dropsies (dupe)
-- Charms of Keeping (sometimes deletes items)
-- Slotted Book (dupe)
-- Liquefaction Focus
 
 :headphones: Discord rules: :headphones: 
 1. Your nick must have some indication of who you are in-game
