@@ -37,7 +37,6 @@ They stole my hard-to-make gear through legitimate means and now I have to start
 - Brew of Erosion (used for griefing)
 - Rod of the Terra Firma (greifing)
 - Bag of Tricks (dupe bug) (see Custom Recipes for alt recipes)
-- Hungry Bag (dupe bug)
 - Slotted Book (dupe)
 - Time focus (time wars bad)
 - Liquefaction Focus (breaks furnace recipes)
