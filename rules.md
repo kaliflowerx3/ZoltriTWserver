@@ -13,7 +13,7 @@
 :video_game: UNPLAYABLE :video_game:   
 What this is:
 ```
-I can't go to my base.
+I can't go to my base, but I also can't fix whatever is stopping me from going there.
 I'm a newcomer and I've been cursed with waking nightmare.
 I get disconnected/lag from what they did near/in my base.
 They are killing me/tping me over and over for longer than 10 minutes.
