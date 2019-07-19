@@ -60,5 +60,6 @@ Griefing WILL NOT be acted upon (rolled back/refunded) or investigated if the wi
 As always, if you have ANY questions, feel free to PM me! And please do so BEFORE doing something questionable, not after.
 
 
-<iframe src="http://zoltritw.meloncu.be:1121/" height="1200">  
-  
+<iframe src="http://zoltritw.meloncu.be:1121/" width="100%" height="1200">
+  <p>Your browser does not support iframes.</p>
+</iframe>
