@@ -3,7 +3,7 @@
 :straight_ruler: Please read these rules carefully, and check back often to see if they've changed: :straight_ruler:  
 > NOTE: I reserve the right to punish rulebreakers AS I SEE FIT. If you have a problem with that, maybe don't play on a public server?
 
-1. You must be respectful to everyone, including USING PEOPLE'S PREFFERED PRONOUNS! Check tablist or roles on Discord.
+1. You must be respectful to everyone, including using selected pronouns! Check tablist or roles on Discord.
 2. No griefing! See below for enforcement rules.
 3. No use of third-party software.
 4. If something is clearly not meant to happen, report it! Don't exploit it.
