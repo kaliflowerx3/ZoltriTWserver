@@ -4,7 +4,7 @@
 3. No use of third-party software.
 4. Just because you can, doesn't mean you should. If something is clearly not meant to happen, report it! Don't exploit it. This will operate on a Warning-Tempban-Permaban basis (not necessarily for the same bug).
 5. We will not tolerate discrimination of any kind. This includes slurs. PLEASE LOOK UP WHAT SLURS ARE, YOU *WILL* BE AUTOBANNED!
-6. You must be the race you ally with (see rule 4). Alliance changes are expensive, but are offered in-store at spawn.
+6. You must be the race you ally with (see rule 4). In addition, you must set your pronouns. Alliance changes are expensive, but are offered in-store at spawn.
 7. This is a mature server! Underage players will be banned.
 8. No PvP logging! Don't be a coward.
 9. You may only force-tp (Witchery rite or otherwise) someone onto UNCLAIMED LAND! We have ways of tracking this! It is up to the DEFENDER to bring it to our attention.
