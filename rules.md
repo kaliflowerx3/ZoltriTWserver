@@ -64,4 +64,5 @@ As always, if you have ANY questions, feel free to PM me! And please do so BEFOR
 - RESTRICTED: Transvector Dislocator (you can hold one but can't place it, can use to craft still)
 - RESTRICTED: Ore magnet (not allowed in overworld)
 - RESTRICTED: Miner's Tree (not allowed in overworld)
+- RESTRICTED: Block and Chain (not allowed in overworld)
 </details>
