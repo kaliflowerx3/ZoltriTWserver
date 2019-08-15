@@ -44,6 +44,7 @@ As always, if you have ANY questions, feel free to PM me! And please do so BEFOR
 <details>
   <summary><b> :police_car: Outlawed (disabled) items: :police_car: </summary>
 
+Be sure to also visit [Frequent Issues](https://github.com/kaliflowerx3/ZoltriTWserver/wiki/Frequent-Issues) for mod interactions with undesireable results.  
 - All of the Imbued Fires except Ordo (crashes and lags server)
 - Alchemite (crashes server)
 - Brew of Keep Items/Sticky Items (not banned but often deletes your items)
@@ -65,4 +66,5 @@ As always, if you have ANY questions, feel free to PM me! And please do so BEFOR
 - RESTRICTED: Ore magnet (not allowed in overworld)
 - RESTRICTED: Miner's Tree (not allowed in overworld)
 - RESTRICTED: Block and Chain (not allowed in overworld)
+- RESTRICTED: Travelling Trunk (buggy, don't recommend using it)
 </details>
