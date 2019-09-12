@@ -7,7 +7,7 @@
 2. No griefing! See below for enforcement rules.
 3. No use of third-party software.
 4. If something is clearly not meant to happen, report it! Don't exploit it.
-5. No discrimination of any kind. This includes slurs. PLEASE __[LOOK UP WHAT SLURS ARE](https://en.wikipedia.org/wiki/Lists_of_pejorative_terms_for_people)__, YOU *WILL* BE AUTOBANNED!
+5. No discrimination of any kind. This includes slurs. PLEASE [__LOOK UP WHAT SLURS ARE__](https://en.wikipedia.org/wiki/Lists_of_pejorative_terms_for_people), YOU *WILL* BE AUTOBANNED!
 6. You must be the race you ally with. You must set your pronouns.
 8. You must be over 15.
 9. No PvP logging.
