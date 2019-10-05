@@ -11,8 +11,8 @@
 6. You must be the race you ally with. You must set your pronouns.
 8. You must be over 15.
 9. No PvP logging.
-10. You may only force-tp (Witchery rite or otherwise) someone onto UNCLAIMED LAND!
-11. Do not make someone's game unplayable! (see below)
+10. You may only force-tp someone onto UNCLAIMED LAND, and you may only do so to the same player once a day.
+12. Do not make someone's game unplayable! (see below)
 
 :video_game: UNPLAYABLE :video_game:   
 What this is:
@@ -20,7 +20,7 @@ What this is:
 I can't go to my base, but I also can't fix whatever is stopping me from going there.
 I'm a newcomer and I've been cursed with waking nightmare.
 I get disconnected/lag from what they did near/in my base.
-They are killing me/tping me over and over for longer than 10 minutes.
+I have been teleported without my permission more than once in 24 hours by the same person/group of people.
 ```
 
 What this isn't:
@@ -29,6 +29,7 @@ I don't feel safe while they are online.
 They make me mad by talking in chat (/ignore!)
 They keep cursing me with something that doesn't kill me.
 They stole my hard-to-make gear through legitimate means and now I have to start again.
+I haven't actually been teleported without my permission, but they're ruining all my poppets.
 ```
 
 :headphones: Discord rules: :headphones: 
