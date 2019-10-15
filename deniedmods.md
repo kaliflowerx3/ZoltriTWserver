@@ -33,7 +33,7 @@ ___
 
 AbyssalCraft - Previously had it, performance issues  
 Advanced Energistics - Not Thematically Appropriate  
-Aether Legacy (and Aether I) - Underwhelming/Meaningless/Unbalanced
+Aether Legacy (and Aether I) - Underwhelming/Meaningless/Unbalanced  
 Any Gun/tanks/missile/rockets mod - cmon  
 Any mod that is based off a movie/tv show/other video game - Meaningless/Not Thematically Appropriate/Fuck you  
 Archimedes Ships - Performance Issues  
@@ -70,7 +70,7 @@ Simple robots - Not Thematically Appropriate
 Simply magic - Performance Issues/Underdeveloped   
 Thaumaturgical Knowledge - Only adds 1 thing  
 Thaumic Bases - Unbalanced  
-Tinker's construct - Not Thematically Appropriate 
+Tinker's construct - Not Thematically Appropriate  
 Waystones/teleport mod - Meaningless  
 Electroblob's Wizardry - Performance Issues  
 </details>  
