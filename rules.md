@@ -50,8 +50,6 @@ Be sure to also visit [Frequent Issues](https://github.com/kaliflowerx3/ZoltriTW
 - Alchemite (crashes server)
 - Brew of Keep Items/Sticky Items (not banned but often deletes your items)
 - Resolute Ivy (deletes items)
-- Charms of Keeping (sometimes deletes items)
-- Sortingwood Engine (deletes items)
 - Brew of Erosion (used for griefing)
 - Rod of the Terra Firma (greifing)
 - Bag of Tricks (dupe bug) (see Custom Recipes for alt recipes)
@@ -60,14 +58,9 @@ Be sure to also visit [Frequent Issues](https://github.com/kaliflowerx3/ZoltriTW
 - Liquefaction Focus (breaks furnace recipes)
 - Loonium (overpowered)  
 - Euclidaisy (overpowered)  
-- DISABLED: Wand of Dropsies (dupe, you can have it but it doesn't do anything)
 
 :oncoming_police_car: Restricted items (use is limited): :oncoming_police_car: 
-- RESTRICTED: Tome of Knowledge Sharing (humans only)
 - RESTRICTED: Shard of Laputa (used for griefing; if you want the effects ask Kali and i will raise a thing for you)  
 - RESTRICTED: Transvector Dislocator (you can hold one but can't place it, can use to craft still)
-- RESTRICTED: Ore magnet (not allowed in overworld)
-- RESTRICTED: Miner's Tree (not allowed in overworld)
-- RESTRICTED: Block and Chain (not allowed in overworld)
 - RESTRICTED: Travelling Trunk (buggy, don't recommend using it)
 </details>
