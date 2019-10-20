@@ -58,6 +58,8 @@ Be sure to also visit [Frequent Issues](https://github.com/kaliflowerx3/ZoltriTW
 - Slotted Book (dupe)
 - Time focus (time wars bad)
 - Liquefaction Focus (breaks furnace recipes)
+- Loonium (overpowered)  
+- Euclidaisy (overpowered)  
 - DISABLED: Wand of Dropsies (dupe, you can have it but it doesn't do anything)
 
 :oncoming_police_car: Restricted items (use is limited): :oncoming_police_car: 
