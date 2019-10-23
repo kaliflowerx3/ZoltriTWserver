@@ -58,6 +58,7 @@ Be sure to also visit [Frequent Issues](https://github.com/kaliflowerx3/ZoltriTW
 - Liquefaction Focus (breaks furnace recipes)
 - Loonium (overpowered)  
 - Euclidaisy (overpowered)  
+- Curative vat (buggy, infusions are offered in /spawn)
 
 :oncoming_police_car: Restricted items (use is limited): :oncoming_police_car: 
 - RESTRICTED: Shard of Laputa (used for griefing; if you want the effects ask Kali and i will raise a thing for you)  
