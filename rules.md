@@ -36,6 +36,7 @@ I haven't actually been teleported without my permission, but they're ruining al
 1. Your nick must have some indication of who you are in-game
 2. If you don't have your correct role, put your name and chosen role in #i-need-a-role 
 3. Other discord server links are OK as long as they're not for other minecraft servers
+4. Respect the :speak_no_evil: voice channel! It's not for shouting or boisterous activity. Other channels are unrestricted.
 
 :bookmark_tabs: Greifing :bookmark_tabs:  
 Griefing WILL NOT be acted upon (rolled back/refunded) or investigated if the window in which it occurred is more than 7 days not inclusive (that means >7 days not >=7 days).
