@@ -60,9 +60,9 @@ Be sure to also visit [Frequent Issues](https://github.com/kaliflowerx3/ZoltriTW
 - Loonium (overpowered)  
 - Euclidaisy (overpowered)  
 - Curative vat (buggy, infusions are offered in /spawn)
+- Travelling Trunk (buggy, don't recommend using it)
 
 :oncoming_police_car: Restricted items (use is limited): :oncoming_police_car: 
 - RESTRICTED: Shard of Laputa (used for griefing; if you want the effects ask Kali and i will raise a thing for you)  
 - RESTRICTED: Transvector Dislocator (you can hold one but can't place it, can use to craft still)
-- RESTRICTED: Travelling Trunk (buggy, don't recommend using it)
 </details>
