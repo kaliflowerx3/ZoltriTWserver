@@ -14,4 +14,4 @@ primordial mote x3 = primordial nodule (shapeless)
 primordial nodule x3 = primordial pearl (shapeless)  
 
 pICTRE OMEING SOON
-blaze powder x3 = blaze rod (shapeless)
+blaze powder x9 = blaze rod (shapeless)
