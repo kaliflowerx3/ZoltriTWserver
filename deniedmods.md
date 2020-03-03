@@ -19,11 +19,7 @@ ___
 [Clay Soldiers](https://minecraft.curseforge.com/projects/clay-soldiers-mod?gameCategorySlug=mc-mods&projectID=227543) - Fun mod, but doesn't add anything crazy, unsure of performance on server, needs further testing  
 [Chromaticraft](https://minecraft.curseforge.com/projects/chromaticraft?gameCategorySlug=mc-mods&projectID=235590) - Waiting for updates  
 [Archmagus](https://minecraft.curseforge.com/projects/archmagus?gameCategorySlug=mc-mods&projectID=223126) - Need testings  
-
-**Dimension Mods:**  
-[Erebus](https://minecraft.curseforge.com/projects/the-erebus?gameCategorySlug=mc-mods&projectID=220698) - Biome IDs conflict, and cannot exceed 127 (BOP uses up to 122, and Erebus uses 8), need additional libraries  
-[Aether 2](https://minecraft.curseforge.com/projects/the-aether-ii) - potential performance issues, but maybe sometime in the future?  
-[TragicMC 2](https://minecraft.curseforge.com/projects/tragicmc2?gameCategorySlug=mc-mods&projectID=74378) - looks really fun, some balance issues, performance issues  
+[Erebus](https://www.curseforge.com/minecraft/mc-mods/the-erebus)  
 </details>  
 
 <details>
@@ -31,22 +27,24 @@ ___
     
 (Unbalanced means server admins have decided this.  Disagree all you want but don't argue, it won't help)
 
+Any cross mod between Thaumcraft and an energy mod - Not thematically appropriate
 AbyssalCraft - Previously had it, performance issues  
 Advanced Energistics - Not Thematically Appropriate  
 Aether Legacy (and Aether I) - Underwhelming/Meaningless/Unbalanced  
+Alfheim - not developed for multiplayer servers, perhaps in the future
 Any Gun/tanks/missile/rockets mod - cmon  
 Any mod that is based off a movie/tv show/other video game - Meaningless/Not Thematically Appropriate/Fuck you  
 Archimedes Ships - Performance Issues  
 Ars Magica - Unbalanced  
 Astral Sorcery - No 1.7.10 version  
 Backpack mod - Meaningless  
+Betweenlands - Performance issues, crashes on 1.7.10
 Block armor - Not Thematically Appropriate  
 Blood Magic - Had it, cycled it out  
 Botanical Addons - Meaningless :(  
 Builders wands/Building Tools - Meaningless  
 Carpenters Blocks - Performance Issues  
 Chisel and Bits - Performance Issues  
-Chromitcraft - Performance Issues (idk what this is meant to be)  
 CopiousDogs - Broken/Performance Issues  
 Dab mod - fuck you  
 Decocraft - Performance Issues  
@@ -54,7 +52,9 @@ Dimensional Doors - Redundant to Mirror Dim/No 1.7.10
 Druidry - Meaningless/Unfinished at 1.7.10  
 Evilcraft - Had it, cycled it out  
 Extra Util - Not Thematically Appropriate   
+Forgotten Relics - Unbalanced  
 Gadomancy - Performance Issues  
+Hardcore Ender Expansion - Had it, kinda boring
 Iron chests - Meaningless   
 JeweleryCraft - Meaningless  
 Magical Crops/farmable ores - Unbalanced  
@@ -64,14 +64,20 @@ NiftyBlocks - Redundant (Pam's for food, Chisel for deco)
 Open Blocks - Not Thematically Appropriate  
 Other flight mods - Meaningless  
 Project E - Not Thematically Appropriate  
+Reliquary - Meaningless  
 Sanguimancy - Broken   
 Silent's Gems - Unbalanced  
 Simple robots - Not Thematically Appropriate  
 Simply magic - Performance Issues/Underdeveloped   
 Thaumaturgical Knowledge - Only adds 1 thing  
 Thaumic Bases - Unbalanced  
+Thaumic Infusions - Undeveloped for 1.7.10
+TragicMC - Performance Issues  
 Tinker's construct - Not Thematically Appropriate  
+Totemic - Had it, really undeveloped for 1.7.10  
+Twilight Forest - Unbalanced/Too easy
 Waystones/teleport mod - Meaningless  
+Weeb shit - fuck you  
 Electroblob's Wizardry - Performance Issues  
 </details>  
 
