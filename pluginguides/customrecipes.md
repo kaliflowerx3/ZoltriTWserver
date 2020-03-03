@@ -12,3 +12,6 @@ string + thaumium ingot + cloak + cloth of spacious folds = cloak of vol pockets
 primordial mote x3 = primordial nodule (shapeless)  
 ![](https://cdn.discordapp.com/attachments/316417390214774785/455367901143236608/unknown.png)  
 primordial nodule x3 = primordial pearl (shapeless)  
+
+pICTRE OMEING SOON
+blaze powder x3 = blaze rod (shapeless)
