@@ -3,16 +3,26 @@
 :straight_ruler: Please read these rules carefully, and check back often to see if they've changed: :straight_ruler:  
 > NOTE: I reserve the right to punish rulebreakers AS I SEE FIT. If you have a problem with that, maybe don't play on a public server?
 
-1. You must be respectful to everyone, including using selected pronouns! Check tablist or roles on Discord.
+1. Be respectful to everyone, including using selected pronouns! Check tablist or roles on Discord.
 2. No griefing! See below for enforcement rules.
 3. No use of third-party software.
 4. If something is clearly not meant to happen, report it! Don't exploit it.
 5. No discrimination of any kind. This includes slurs. PLEASE [__LOOK UP WHAT SLURS ARE__](https://en.wikipedia.org/wiki/Lists_of_pejorative_terms_for_people), YOU *WILL* BE AUTOBANNED!
-6. You must be the race you ally with. You must set your pronouns.
-8. You must be over 15.
-9. No PvP logging.
-10. You may only force-tp someone onto UNCLAIMED LAND, and you may only do so to the same player once a day.
+6. You must be the race you ally with. 
+7. You must set your pronouns.
+8. You must be over 15 years old.
 12. Do not make someone's game unplayable! (see below)
+
+###  Race Rules ###
+:crystal_ball: Hooligans :crystal_ball: 
+1. No PvP logging.
+2. You may only force-tp other hooligans, and only onto UNCLAIMED LAND, and only the same player once a day.
+3. Do not curse/voodoo non-hooligans without cause.
+
+:wolf:🧙🧛 Non-Hooligans :wolf:🧙🧛
+1. Do not curse/voodoo someone without cause.
+2. Do not force-tp anyone.
+3. Do not PvP or try to PvP anyone outside of designated areas.
 
 :video_game: UNPLAYABLE :video_game:   
 What this is:
