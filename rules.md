@@ -15,16 +15,16 @@
 
 ###  Race Rules ###
 :crystal_ball: Hooligans :crystal_ball: 
-1. No PvP logging.
-2. You may only force-tp other hooligans, and only onto UNCLAIMED LAND, and only the same player once a day.
-3. Do not curse/voodoo non-hooligans without cause.
+1. Do not curse/voodoo non-hooligans without cause.
+2. No PvP logging.
+3. You may only force-tp other hooligans, and only onto UNCLAIMED LAND, and only the same player once a day.
 
 :wolf:🧙🧛 Non-Hooligans :wolf:🧙🧛
 1. Do not curse/voodoo someone without cause.
 2. Do not force-tp anyone.
 3. Do not PvP or try to PvP anyone outside of designated areas.
 
-:video_game: UNPLAYABLE :video_game:   
+### :video_game: UNPLAYABLE :video_game:   
 What this is:
 ```
 I can't go to my base, but I also can't fix whatever is stopping me from going there.
@@ -42,13 +42,13 @@ They stole my hard-to-make gear through legitimate means and now I have to start
 I haven't actually been teleported without my permission, but they're ruining all my poppets.
 ```
 
-:headphones: Discord rules: :headphones: 
+### :headphones: Discord rules: :headphones: 
 1. Your nick must have some indication of who you are in-game
 2. If you don't have your correct role, put your name and chosen role in #i-need-a-role 
 3. Other discord server links are OK as long as they're not for other minecraft servers
 4. Respect the :speak_no_evil: voice channel! It's not for shouting or boisterous activity. Other channels are unrestricted.
 
-:bookmark_tabs: Greifing :bookmark_tabs:  
+### :bookmark_tabs: Greifing :bookmark_tabs:  
 Griefing WILL NOT be acted upon (rolled back/refunded) or investigated if the window in which it occurred is more than 7 days not inclusive (that means >7 days not >=7 days).
 
 As always, if you have ANY questions, feel free to PM me! And please do so BEFORE doing something questionable, not after.
