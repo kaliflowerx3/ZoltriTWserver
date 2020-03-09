@@ -48,7 +48,7 @@ I haven't actually been teleported without my permission, but they're ruining al
 3. Other discord server links are OK as long as they're not for other minecraft servers
 4. Respect the :speak_no_evil: voice channel! It's not for shouting or boisterous activity. Other channels are unrestricted.
 
-### :bookmark_tabs: Greifing :bookmark_tabs:  
+### :bookmark_tabs: Griefing :bookmark_tabs:  
 - Unclaimed bases (use a stick on the ground to check) are FREE REAL ESTATE to loot as you please, first come first serve.
 - Griefing WILL NOT be acted upon (rolled back/refunded) or investigated if the window in which it occurred is more than 7 days not inclusive (that means >7 days not >=7 days).
 
