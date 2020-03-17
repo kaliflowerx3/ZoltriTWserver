@@ -19,6 +19,8 @@
 2. No PvP logging.
 3. You may only force-tp other hooligans, and only onto UNCLAIMED LAND, and only the same player once a day.
 
+"You" being your setup. A different person using your setup still counts under your name.
+
 :wolf:🧙🧛 Non-Hooligans :wolf:🧙🧛
 1. Do not curse/voodoo someone without cause.
 2. Do not force-tp anyone.
