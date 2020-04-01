@@ -68,7 +68,6 @@ Be sure to also visit [Frequent Issues](https://github.com/kaliflowerx3/ZoltriTW
 - Rod of the Terra Firma (greifing)
 - Bag of Tricks (dupe bug) (see Custom Recipes for alt recipes)
 - Slotted Book (dupe)
-- Time focus (time wars bad)
 - Liquefaction Focus (breaks furnace recipes)
 - Loonium (overpowered)  
 - Euclidaisy (overpowered)  
