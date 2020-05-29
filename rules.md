@@ -72,7 +72,9 @@ Be sure to also visit [Frequent Issues](https://github.com/kaliflowerx3/ZoltriTW
 - Loonium (overpowered)  
 - Euclidaisy (overpowered)  
 - Curative vat (buggy, infusions are offered in /spawn)
-- Travelling Trunk (buggy, don't recommend using it)
+- Travelling Trunk (buggy)
+- Void Sigil (crashes server)
+- Convocation of the Damned (lags server, makes ugly thing. in the future there will be one available for public use in the dundim or something)
 
 :oncoming_police_car: Restricted items (use is limited): :oncoming_police_car: 
 - RESTRICTED: Shard of Laputa (used for griefing; if you want the effects ask Kali and i will raise a thing for you)  
