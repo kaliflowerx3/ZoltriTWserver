@@ -75,9 +75,9 @@ Be sure to also visit [Frequent Issues](https://github.com/kaliflowerx3/ZoltriTW
 - Travelling Trunk (buggy)
 - Void Sigil (crashes server)
 - Convocation of the Damned (lags server, makes ugly thing. in the future there will be one available for public use in the dundim or something)
+- Manastorm Charge (griefing)
 
 :oncoming_police_car: Restricted items (use is limited): :oncoming_police_car: 
 - RESTRICTED: Shard of Laputa (used for griefing; if you want the effects ask Kali and i will raise a thing for you)  
 - RESTRICTED: Transvector Dislocator (you can hold one but can't place it, can use to craft still)
-- RESTRICTED: Manastorm Charge (only dundim)
 </details>
