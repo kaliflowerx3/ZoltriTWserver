@@ -13,5 +13,10 @@ primordial mote x3 = primordial nodule (shapeless)
 ![](https://cdn.discordapp.com/attachments/316417390214774785/455367901143236608/unknown.png)  
 primordial nodule x3 = primordial pearl (shapeless)  
 
-pICTRE OMEING SOON
+![](https://cdn.discordapp.com/attachments/702444068290166784/717384441529368647/unknown.png)
+virtus + demon blood shard = life shard
+![](https://cdn.discordapp.com/attachments/702444068290166784/717384721247633439/unknown.png)
+potentia + demon blood shard = soul shard  
+
+![](https://cdn.discordapp.com/attachments/702444068290166784/717385374728585246/unknown.png)
 blaze powder x9 = blaze rod (shapeless, technically?)
