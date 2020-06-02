@@ -74,9 +74,10 @@ Be sure to also visit [Frequent Issues](https://github.com/kaliflowerx3/ZoltriTW
 - Curative vat (buggy, infusions are offered in /spawn)
 - Travelling Trunk (buggy)
 - Void Sigil (crashes server)
-- Convocation of the Damned (lags server, makes ugly thing. in the future there will be one available for public use in the dundim or something)
+- Convocation of the Damned (lags server, makes ugly thing. check [custom recipes](https://github.com/kaliflowerx3/ZoltriTWserver/blob/master/pluginguides/customrecipes.md) for life and soul shards!)
 - Manastorm Charge (griefing)
 - Charms of Keeping (buggy, deletes items)
+- Sorting wood and miner's wood from TF (buggy)
 
 :oncoming_police_car: Restricted items (use is limited): :oncoming_police_car: 
 - RESTRICTED: Shard of Laputa (used for griefing; if you want the effects ask Kali and i will raise a thing for you)  
