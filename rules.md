@@ -82,4 +82,5 @@ Be sure to also visit [Frequent Issues](https://github.com/kaliflowerx3/ZoltriTW
 :oncoming_police_car: Restricted items (use is limited): :oncoming_police_car: 
 - RESTRICTED: Shard of Laputa (used for griefing; if you want the effects ask Kali and i will raise a thing for you)  
 - RESTRICTED: Transvector Dislocator (you can hold one but can't place it, can use to craft still)
+- RESTRICTED: Thaumcraft Golems and Poppets (don't give your golems poppets in their GUI)
 </details>
