@@ -23,3 +23,5 @@ primordial mote x3 = primordial nodule (shapeless)
 primordial nodule x3 = primordial pearl (shapeless)  
 ![](https://cdn.discordapp.com/attachments/702444068290166784/717385374728585246/unknown.png)  
 blaze powder x9 = blaze rod (shapeless, technically?)
+![](https://cdn.discordapp.com/attachments/702444068290166784/723358132276953088/unknown.png)  
+obsidian tile around an eye of ender = obsidian totem  
