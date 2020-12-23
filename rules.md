@@ -27,7 +27,6 @@ Someone's base is defined as the area around someone's house or bed that has cle
 ### Allowed actions:
 - killing unnamed hostile mobs
 - leaving gifts as long as they do not impede any machine or function of their base
-- breaking beds
 
 
 ### Unplayable
