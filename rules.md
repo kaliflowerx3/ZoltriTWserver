@@ -11,7 +11,7 @@
 6. You must set your pronouns.
 7. You must be over 15 years old.
 8. Do not make someone's game unplayable! (see below)
-9. You are not allowed to kill someone (PvP) without reasonable cause, and
+9. Do not repeatedly target a single person with PvP (summoning, killing, cursing, etc.), and
 10. You cannot kill someone using the Gorgon head.
 
 
