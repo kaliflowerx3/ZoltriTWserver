@@ -46,3 +46,33 @@ They make me mad by talking in chat (/ignore!)
 They stole my hard-to-make gear through legitimate means and now I have to start again.
 I haven't actually been teleported without my permission, but they're trying and I'm upset.
 ```
+
+<details>	
+  <summary><b> :police_car: Outlawed (disabled) items: :police_car: </summary>	
+
+Be sure to also visit [Frequent Issues](https://github.com/kaliflowerx3/ZoltriTWserver/wiki/Frequent-Issues) for mod interactions with undesireable results.  	
+- All of the Imbued Fires except Ordo (crashes and lags server)	
+- Alchemite (crashes server)	
+- Brew of Keep Items/Sticky Items (not banned but often deletes your items)	
+- Resolute Ivy (deletes items)	
+- Brew of Erosion (used for griefing)	
+- Rod of the Terra Firma (greifing)	
+- Bag of Tricks (dupe bug) (see Custom Recipes for alt recipes)	
+- Slotted Book (dupe)	
+- Liquefaction Focus (breaks furnace recipes)	
+- Loonium (overpowered)  	
+- Euclidaisy (overpowered)  	
+- Curative vat (buggy, infusions are offered in /spawn)	
+- Travelling Trunk (buggy)	
+- Void Sigil (crashes server)	
+- Convocation of the Damned (lags server, makes ugly thing. check [custom recipes](https://github.com/kaliflowerx3/ZoltriTWserver/blob/master/pluginguides/customrecipes.md) for life and soul shards!)	
+- Manastorm Charge (griefing)	
+- Charms of Keeping (buggy, deletes items)	
+- Sorting wood and miner's wood from TF (buggy)	
+
+:oncoming_police_car: Restricted items (use is limited): :oncoming_police_car: 	
+- RESTRICTED: Shard of Laputa (used for griefing; if you want the effects ask Kali and i will raise a thing for you)  	
+- RESTRICTED: Transvector Dislocator (you can hold one but can't place it, can use to craft still)	
+- RESTRICTED: Thaumcraft Golems and Poppets (don't give your golems poppets in their GUI)	
+- RESTRICTED: Soulbound enchantment (buggy, use at own risk)
+</details>
