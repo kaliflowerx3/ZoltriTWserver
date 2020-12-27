@@ -14,6 +14,7 @@
 9. Do not repeatedly target a single person with PvP (summoning, killing, cursing, etc.), and
 10. You cannot kill someone using the Gorgon head.
 
+Also, in the interest of good sportstime it is strongly discouraged to keep a player's inventory after killing them without reasonable cause.
 
 ## Griefing Definition
 Someone's base is defined as the area around someone's house or bed that has clearly been built on. Don't make it hard to prove intent to grief!
