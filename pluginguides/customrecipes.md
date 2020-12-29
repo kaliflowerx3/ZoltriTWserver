@@ -5,6 +5,10 @@ only use a vanilla workbench
 shift crafting multiple is a lil buggy, but still works. just dont panic.
 
 ---
+![](https://cdn.discordapp.com/attachments/735303580889645098/793466451532316723/unknown.png)  
+7 gold + 2 iron = biblio lock and key
+
+---
 
 ![](https://cdn.discordapp.com/attachments/702444068290166784/717384441529368647/unknown.png)  
 virtus + demon blood shard = life shard  
@@ -25,3 +29,5 @@ primordial nodule x3 = primordial pearl (shapeless)
 blaze powder x9 = blaze rod (shapeless, technically?)  
 ![](https://cdn.discordapp.com/attachments/702444068290166784/723358132276953088/unknown.png)  
 obsidian tile around an eye of ender = obsidian totem  
+![](https://cdn.discordapp.com/attachments/735303580889645098/793468324536778782/unknown.png)  
+tallow candle + air shard = floating candle of the same colour (shapeless)  
