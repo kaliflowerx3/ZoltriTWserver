@@ -5,7 +5,7 @@
 
 1. Be respectful to everyone, including using selected pronouns! Check tablist or roles on Discord.
 2. No griefing! See below for details.
-3. No use of third-party software.
+3. No use of third-party software. This includes using an autoclicker to level in AM2.
 4. If something is clearly not meant to happen, report it! Don't exploit it.
 5. No discrimination of any kind. This includes slurs. By joining the server you acknowledge that the use of slurs (including but not limited to: r-slur, f-slur, and n-slur) can get you automatically permabanned.
 6. You must set your pronouns.
