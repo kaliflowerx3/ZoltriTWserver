@@ -6,7 +6,11 @@ shift crafting multiple is a lil buggy, but still works. just dont panic.
 
 ---
 ![](https://cdn.discordapp.com/attachments/735303580889645098/793466451532316723/unknown.png)  
-7 gold + 2 iron = biblio lock and key
+7 gold + 2 iron = biblio lock and key  
+  
+no pics cause im lazy:  
+lapis -> blue dye  
+cocoa bean -> brown dye  
 
 ---
 
