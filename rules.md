@@ -1,7 +1,7 @@
 ## Rules and Important Info	
 
 :straight_ruler: Please read these rules carefully, and check back often to see if they've changed: :straight_ruler:  	
-> NOTE: I reserve the right to punish rulebreakers AS I SEE FIT. If you have a problem with that, maybe don't play on a public server?
+> NOTE 1: I reserve the right to punish rulebreakers AS I SEE FIT. If you have a problem with that, maybe don't play on a public server?
 
 1. Be respectful to everyone, including using selected pronouns! Check tablist or roles on Discord.
 2. No griefing! See below for details.
@@ -14,7 +14,9 @@
 9. Do not repeatedly target a single person with PvP (summoning, killing, cursing, etc.), and
 10. In the interest of good sportstime it is strongly discouraged to keep a player's inventory after killing them without reasonable cause.
 
-ALSO: if you die and don't press respawn either by closing the client or the server restarting you risk losing your Ars levels! I do not have a fix for this so be careful dying.
+NOTE 2: if you die and don't press respawn either by closing the client or the server restarting you risk losing your Ars levels! I do not have a fix for this so be careful dying.  
+  
+NOTE 3: in general, just assume you are not going to get a refund. i did not write any of the mods or minecraft and i can't guarantee or secure any potential mod interactions or bugs. the only thing i did write was worship so if somethin bugs on that i'll probbaly deal a refund. IN THE CASE that i DO think you get a refund, i will only refund 8 items that you lost so dont bring your entire base places and be careful while moving. also i will not refund enchantments, upgrades, contents of pouches (use enderpouch!), etc. also remember that manners and grace are a baseline if you're gonna ask me for somethin.
 
 ## Griefing Definition
 Someone's base is defined as the area around someone's house or bed that has clearly been built on. Don't make it hard to prove intent to grief!
